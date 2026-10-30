@@ -26,6 +26,7 @@ js/i18n.js          UI strings (English / Korean)
 data/courses.json   course → level → unit index
 data/<course>/<level>/<unit>.json
 docs/content-schema.md
+scripts/validate.py   checks unit files and item ids (run before committing content)
 ```
 
 Adding a lesson means adding one JSON file and one line to `data/courses.json`. See [docs/content-schema.md](docs/content-schema.md).

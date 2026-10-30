@@ -1,0 +1,91 @@
+{
+ "id": "hangul-double-consonants",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ko.hangul-double-consonants.kk",
+   "char": "ㄲ",
+   "roman": "kk",
+   "note": {
+    "en": "Tense ㄱ: tighten your throat and release with no puff of air, like 'k' in skate."
+   },
+   "examples": [
+    {
+     "text": "꼬리",
+     "roman": "kkori",
+     "meaning": {
+      "en": "tail"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-double-consonants.tt",
+   "char": "ㄸ",
+   "roman": "tt",
+   "note": {
+    "en": "Tense ㄷ, like 't' in stop."
+   },
+   "examples": [
+    {
+     "text": "딸기",
+     "roman": "ttalgi",
+     "meaning": {
+      "en": "strawberry"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-double-consonants.pp",
+   "char": "ㅃ",
+   "roman": "pp",
+   "note": {
+    "en": "Tense ㅂ, like 'p' in spin."
+   },
+   "examples": [
+    {
+     "text": "빵",
+     "roman": "ppang",
+     "meaning": {
+      "en": "bread"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-double-consonants.ss",
+   "char": "ㅆ",
+   "roman": "ss",
+   "note": {
+    "en": "Tense ㅅ: a sharp, hissing 's'."
+   },
+   "examples": [
+    {
+     "text": "쌀",
+     "roman": "ssal",
+     "meaning": {
+      "en": "uncooked rice"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-double-consonants.jj",
+   "char": "ㅉ",
+   "roman": "jj",
+   "note": {
+    "en": "Tense ㅈ, with no puff of air."
+   },
+   "examples": [
+    {
+     "text": "짜다",
+     "roman": "jjada",
+     "meaning": {
+      "en": "to be salty"
+     }
+    }
+   ]
+  }
+ ]
+}

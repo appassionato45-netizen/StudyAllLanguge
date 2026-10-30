@@ -1,18 +1,176 @@
 {
-  "id": "hangul-vowels",
-  "type": "letters",
-  "items": [
-    { "id": "ko.hangul-vowels.a", "char": "ㅏ", "roman": "a", "note": { "en": "Like 'a' in father." },
-      "examples": [ { "text": "아이", "roman": "a-i", "meaning": { "en": "child" } } ] },
-    { "id": "ko.hangul-vowels.eo", "char": "ㅓ", "roman": "eo", "note": { "en": "Like 'u' in cup, with the mouth more open." },
-      "examples": [ { "text": "어머니", "roman": "eo-meo-ni", "meaning": { "en": "mother" } } ] },
-    { "id": "ko.hangul-vowels.o", "char": "ㅗ", "roman": "o", "note": { "en": "Like 'o' in go, with rounded lips and no glide." },
-      "examples": [ { "text": "오이", "roman": "o-i", "meaning": { "en": "cucumber" } } ] },
-    { "id": "ko.hangul-vowels.u", "char": "ㅜ", "roman": "u", "note": { "en": "Like 'oo' in moon." },
-      "examples": [ { "text": "우유", "roman": "u-yu", "meaning": { "en": "milk" } } ] },
-    { "id": "ko.hangul-vowels.eu", "char": "ㅡ", "roman": "eu", "note": { "en": "Say 'oo' but spread your lips flat. No English equivalent." },
-      "examples": [ { "text": "으", "roman": "eu", "meaning": { "en": "(the sound alone)" } } ] },
-    { "id": "ko.hangul-vowels.i", "char": "ㅣ", "roman": "i", "note": { "en": "Like 'ee' in see." },
-      "examples": [ { "text": "이", "roman": "i", "meaning": { "en": "tooth; two" } } ] }
-  ]
+ "id": "hangul-vowels",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ko.hangul-vowels.a",
+   "char": "ㅏ",
+   "roman": "a",
+   "note": {
+    "en": "Like 'a' in father."
+   },
+   "examples": [
+    {
+     "text": "아이",
+     "roman": "a-i",
+     "meaning": {
+      "en": "child"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-vowels.ya",
+   "char": "ㅑ",
+   "roman": "ya",
+   "note": {
+    "en": "Add a 'y' glide to ㅏ: like 'ya' in yard. The extra stroke means the extra 'y'."
+   },
+   "examples": [
+    {
+     "text": "야구",
+     "roman": "yagu",
+     "meaning": {
+      "en": "baseball"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-vowels.eo",
+   "char": "ㅓ",
+   "roman": "eo",
+   "note": {
+    "en": "Like 'u' in cup, with the mouth more open."
+   },
+   "examples": [
+    {
+     "text": "어머니",
+     "roman": "eomeoni",
+     "meaning": {
+      "en": "mother"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-vowels.yeo",
+   "char": "ㅕ",
+   "roman": "yeo",
+   "note": {
+    "en": "Add a 'y' glide to ㅓ: like 'yu' in yummy."
+   },
+   "examples": [
+    {
+     "text": "여자",
+     "roman": "yeoja",
+     "meaning": {
+      "en": "woman"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-vowels.o",
+   "char": "ㅗ",
+   "roman": "o",
+   "note": {
+    "en": "Like 'o' in go, with rounded lips and no glide."
+   },
+   "examples": [
+    {
+     "text": "오이",
+     "roman": "o-i",
+     "meaning": {
+      "en": "cucumber"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-vowels.yo",
+   "char": "ㅛ",
+   "roman": "yo",
+   "note": {
+    "en": "Add a 'y' glide to ㅗ: like 'yo' in yoga."
+   },
+   "examples": [
+    {
+     "text": "요리",
+     "roman": "yori",
+     "meaning": {
+      "en": "cooking"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-vowels.u",
+   "char": "ㅜ",
+   "roman": "u",
+   "note": {
+    "en": "Like 'oo' in moon."
+   },
+   "examples": [
+    {
+     "text": "우유",
+     "roman": "uyu",
+     "meaning": {
+      "en": "milk"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-vowels.yu",
+   "char": "ㅠ",
+   "roman": "yu",
+   "note": {
+    "en": "Add a 'y' glide to ㅜ: like 'you'."
+   },
+   "examples": [
+    {
+     "text": "유리",
+     "roman": "yuri",
+     "meaning": {
+      "en": "glass"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-vowels.eu",
+   "char": "ㅡ",
+   "roman": "eu",
+   "note": {
+    "en": "Say 'oo' but spread your lips flat. No English equivalent."
+   },
+   "examples": [
+    {
+     "text": "으",
+     "roman": "eu",
+     "meaning": {
+      "en": "(the sound alone)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-vowels.i",
+   "char": "ㅣ",
+   "roman": "i",
+   "note": {
+    "en": "Like 'ee' in see."
+   },
+   "examples": [
+    {
+     "text": "이",
+     "roman": "i",
+     "meaning": {
+      "en": "tooth; two"
+     }
+    }
+   ]
+  }
+ ]
 }

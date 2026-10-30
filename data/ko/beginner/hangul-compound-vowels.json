@@ -1,0 +1,200 @@
+{
+ "id": "hangul-compound-vowels",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ko.hangul-compound-vowels.ae",
+   "char": "ㅐ",
+   "roman": "ae",
+   "note": {
+    "en": "Like 'e' in bed. ㅏ + ㅣ."
+   },
+   "examples": [
+    {
+     "text": "개",
+     "roman": "gae",
+     "meaning": {
+      "en": "dog"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-compound-vowels.e",
+   "char": "ㅔ",
+   "roman": "e",
+   "note": {
+    "en": "Also like 'e' in bed. Most Seoul speakers say ㅐ and ㅔ the same way; you tell them apart by spelling."
+   },
+   "examples": [
+    {
+     "text": "게",
+     "roman": "ge",
+     "meaning": {
+      "en": "crab"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-compound-vowels.yae",
+   "char": "ㅒ",
+   "roman": "yae",
+   "note": {
+    "en": "ㅐ with a 'y' glide: like 'ye' in yes. Rare."
+   },
+   "examples": [
+    {
+     "text": "얘기",
+     "roman": "yaegi",
+     "meaning": {
+      "en": "talk; story"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-compound-vowels.ye",
+   "char": "ㅖ",
+   "roman": "ye",
+   "note": {
+    "en": "ㅔ with a 'y' glide: like 'ye' in yes."
+   },
+   "examples": [
+    {
+     "text": "예",
+     "roman": "ye",
+     "meaning": {
+      "en": "yes (formal)"
+     }
+    },
+    {
+     "text": "시계",
+     "roman": "sigye",
+     "meaning": {
+      "en": "clock; watch"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-compound-vowels.wa",
+   "char": "ㅘ",
+   "roman": "wa",
+   "note": {
+    "en": "ㅗ + ㅏ: like 'wa' in wander."
+   },
+   "examples": [
+    {
+     "text": "사과",
+     "roman": "sagwa",
+     "meaning": {
+      "en": "apple"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-compound-vowels.wae",
+   "char": "ㅙ",
+   "roman": "wae",
+   "note": {
+    "en": "ㅗ + ㅐ: like 'we' in wet."
+   },
+   "examples": [
+    {
+     "text": "왜",
+     "roman": "wae",
+     "meaning": {
+      "en": "why"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-compound-vowels.oe",
+   "char": "ㅚ",
+   "roman": "oe",
+   "note": {
+    "en": "Written ㅗ + ㅣ, but today usually pronounced like 'we' in wet."
+   },
+   "examples": [
+    {
+     "text": "회사",
+     "roman": "hoesa",
+     "meaning": {
+      "en": "company"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-compound-vowels.wo",
+   "char": "ㅝ",
+   "roman": "wo",
+   "note": {
+    "en": "ㅜ + ㅓ: like 'wo' in wonder."
+   },
+   "examples": [
+    {
+     "text": "원",
+     "roman": "won",
+     "meaning": {
+      "en": "won (Korean currency)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-compound-vowels.we",
+   "char": "ㅞ",
+   "roman": "we",
+   "note": {
+    "en": "ㅜ + ㅔ: like 'we' in wet. Rare."
+   },
+   "examples": [
+    {
+     "text": "웨이터",
+     "roman": "weiteo",
+     "meaning": {
+      "en": "waiter"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-compound-vowels.wi",
+   "char": "ㅟ",
+   "roman": "wi",
+   "note": {
+    "en": "ㅜ + ㅣ: like 'wee'."
+   },
+   "examples": [
+    {
+     "text": "귀",
+     "roman": "gwi",
+     "meaning": {
+      "en": "ear"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-compound-vowels.ui",
+   "char": "ㅢ",
+   "roman": "ui",
+   "note": {
+    "en": "ㅡ + ㅣ glided together. After a consonant it is often pronounced just ㅣ."
+   },
+   "examples": [
+    {
+     "text": "의사",
+     "roman": "uisa",
+     "meaning": {
+      "en": "doctor"
+     }
+    }
+   ]
+  }
+ ]
+}

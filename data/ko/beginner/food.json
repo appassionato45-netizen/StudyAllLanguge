@@ -1,0 +1,107 @@
+{
+ "id": "food",
+ "type": "vocab",
+ "items": [
+  {
+   "id": "ko.food.bap",
+   "text": "밥",
+   "roman": "bap",
+   "meaning": {
+    "en": "cooked rice; meal"
+   }
+  },
+  {
+   "id": "ko.food.mul",
+   "text": "물",
+   "roman": "mul",
+   "meaning": {
+    "en": "water"
+   },
+   "example": {
+    "text": "물 주세요.",
+    "roman": "mul juseyo.",
+    "meaning": {
+     "en": "Water, please."
+    }
+   }
+  },
+  {
+   "id": "ko.food.gimchi",
+   "text": "김치",
+   "roman": "gimchi",
+   "meaning": {
+    "en": "kimchi"
+   }
+  },
+  {
+   "id": "ko.food.gogi",
+   "text": "고기",
+   "roman": "gogi",
+   "meaning": {
+    "en": "meat"
+   }
+  },
+  {
+   "id": "ko.food.ppang",
+   "text": "빵",
+   "roman": "ppang",
+   "meaning": {
+    "en": "bread"
+   }
+  },
+  {
+   "id": "ko.food.gwail",
+   "text": "과일",
+   "roman": "gwail",
+   "meaning": {
+    "en": "fruit"
+   }
+  },
+  {
+   "id": "ko.food.keopi",
+   "text": "커피",
+   "roman": "keopi",
+   "meaning": {
+    "en": "coffee"
+   }
+  },
+  {
+   "id": "ko.food.uyu",
+   "text": "우유",
+   "roman": "uyu",
+   "meaning": {
+    "en": "milk"
+   }
+  },
+  {
+   "id": "ko.food.juseyo",
+   "text": "주세요",
+   "roman": "juseyo",
+   "meaning": {
+    "en": "please give me"
+   },
+   "example": {
+    "text": "커피 주세요.",
+    "roman": "keopi juseyo.",
+    "meaning": {
+     "en": "Coffee, please."
+    }
+   }
+  },
+  {
+   "id": "ko.food.masisseoyo",
+   "text": "맛있어요",
+   "roman": "masisseoyo",
+   "meaning": {
+    "en": "it's delicious"
+   },
+   "example": {
+    "text": "이 김치 맛있어요.",
+    "roman": "i gimchi masisseoyo.",
+    "meaning": {
+     "en": "This kimchi is delicious."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "id": "family",
+ "type": "vocab",
+ "items": [
+  {
+   "id": "ko.family.gajok",
+   "text": "가족",
+   "roman": "gajok",
+   "meaning": {
+    "en": "family"
+   }
+  },
+  {
+   "id": "ko.family.eomeoni",
+   "text": "어머니",
+   "roman": "eomeoni",
+   "meaning": {
+    "en": "mother (polite)"
+   }
+  },
+  {
+   "id": "ko.family.abeoji",
+   "text": "아버지",
+   "roman": "abeoji",
+   "meaning": {
+    "en": "father (polite)"
+   }
+  },
+  {
+   "id": "ko.family.eomma",
+   "text": "엄마",
+   "roman": "eomma",
+   "meaning": {
+    "en": "mom"
+   }
+  },
+  {
+   "id": "ko.family.appa",
+   "text": "아빠",
+   "roman": "appa",
+   "meaning": {
+    "en": "dad"
+   }
+  },
+  {
+   "id": "ko.family.hyeong",
+   "text": "형",
+   "roman": "hyeong",
+   "meaning": {
+    "en": "older brother (said by a male)"
+   }
+  },
+  {
+   "id": "ko.family.oppa",
+   "text": "오빠",
+   "roman": "oppa",
+   "meaning": {
+    "en": "older brother (said by a female)"
+   }
+  },
+  {
+   "id": "ko.family.nuna",
+   "text": "누나",
+   "roman": "nuna",
+   "meaning": {
+    "en": "older sister (said by a male)"
+   }
+  },
+  {
+   "id": "ko.family.eonni",
+   "text": "언니",
+   "roman": "eonni",
+   "meaning": {
+    "en": "older sister (said by a female)"
+   }
+  },
+  {
+   "id": "ko.family.dongsaeng",
+   "text": "동생",
+   "roman": "dongsaeng",
+   "meaning": {
+    "en": "younger sibling"
+   },
+   "example": {
+    "text": "제 동생이에요.",
+    "roman": "je dongsaeng-ieyo.",
+    "meaning": {
+     "en": "This is my younger sibling."
+    }
+   }
+  }
+ ]
+}

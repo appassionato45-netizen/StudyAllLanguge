@@ -1,0 +1,146 @@
+{
+ "id": "hangul-batchim",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ko.hangul-batchim.k",
+   "char": "ㄱ ㅋ ㄲ",
+   "roman": "-k",
+   "note": {
+    "en": "At the end of a syllable, these all sound like an unreleased 'k'."
+   },
+   "examples": [
+    {
+     "text": "책",
+     "roman": "chaek",
+     "meaning": {
+      "en": "book"
+     }
+    },
+    {
+     "text": "부엌",
+     "roman": "bueok",
+     "meaning": {
+      "en": "kitchen"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-batchim.n",
+   "char": "ㄴ",
+   "roman": "-n",
+   "note": {
+    "en": "Sounds like 'n'."
+   },
+   "examples": [
+    {
+     "text": "산",
+     "roman": "san",
+     "meaning": {
+      "en": "mountain"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-batchim.t",
+   "char": "ㄷ ㅌ ㅅ ㅆ ㅈ ㅊ ㅎ",
+   "roman": "-t",
+   "note": {
+    "en": "Seven letters, one sound: an unreleased 't'."
+   },
+   "examples": [
+    {
+     "text": "옷",
+     "roman": "ot",
+     "meaning": {
+      "en": "clothes"
+     }
+    },
+    {
+     "text": "낮",
+     "roman": "nat",
+     "meaning": {
+      "en": "daytime"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-batchim.l",
+   "char": "ㄹ",
+   "roman": "-l",
+   "note": {
+    "en": "Sounds like 'l'."
+   },
+   "examples": [
+    {
+     "text": "물",
+     "roman": "mul",
+     "meaning": {
+      "en": "water"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-batchim.m",
+   "char": "ㅁ",
+   "roman": "-m",
+   "note": {
+    "en": "Sounds like 'm'."
+   },
+   "examples": [
+    {
+     "text": "밤",
+     "roman": "bam",
+     "meaning": {
+      "en": "night; chestnut"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-batchim.p",
+   "char": "ㅂ ㅍ",
+   "roman": "-p",
+   "note": {
+    "en": "Sounds like an unreleased 'p'."
+   },
+   "examples": [
+    {
+     "text": "밥",
+     "roman": "bap",
+     "meaning": {
+      "en": "cooked rice; meal"
+     }
+    },
+    {
+     "text": "앞",
+     "roman": "ap",
+     "meaning": {
+      "en": "front"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-batchim.ng",
+   "char": "ㅇ",
+   "roman": "-ng",
+   "note": {
+    "en": "Sounds like 'ng' in sing."
+   },
+   "examples": [
+    {
+     "text": "방",
+     "roman": "bang",
+     "meaning": {
+      "en": "room"
+     }
+    }
+   ]
+  }
+ ]
+}
