@@ -7,12 +7,16 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <header>
-    <a href="#/" id="app-title">Study All Languages</a>
-    <select id="ui-lang" aria-label="Interface language"></select>
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="#/" class="brand"><span class="logo" aria-hidden="true">言</span><span id="app-title">Study All Languages</span></a>
+      <nav id="nav-links" class="nav-links" aria-label="Courses"></nav>
+      <select id="ui-lang" aria-label="Interface language"></select>
+    </div>
   </header>
   <p id="voice-note" class="note" hidden></p>
   <main id="main"></main>
+  <footer class="site-footer"><p id="footer-text"></p></footer>
   <script type="module" src="js/app.js"></script>
 </body>
 </html>

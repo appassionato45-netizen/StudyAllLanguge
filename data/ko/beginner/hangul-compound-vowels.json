@@ -15,7 +15,8 @@
      "roman": "gae",
      "meaning": {
       "en": "dog"
-     }
+     },
+     "image": "🐕"
     }
    ]
   },
@@ -32,7 +33,8 @@
      "roman": "ge",
      "meaning": {
       "en": "crab"
-     }
+     },
+     "image": "🦀"
     }
    ]
   },
@@ -49,7 +51,8 @@
      "roman": "yaegi",
      "meaning": {
       "en": "talk; story"
-     }
+     },
+     "image": "💬"
     }
    ]
   },
@@ -73,7 +76,8 @@
      "roman": "sigye",
      "meaning": {
       "en": "clock; watch"
-     }
+     },
+     "image": "⏰"
     }
    ]
   },
@@ -90,7 +94,8 @@
      "roman": "sagwa",
      "meaning": {
       "en": "apple"
-     }
+     },
+     "image": "🍎"
     }
    ]
   },
@@ -107,7 +112,8 @@
      "roman": "wae",
      "meaning": {
       "en": "why"
-     }
+     },
+     "image": "❓"
     }
    ]
   },
@@ -124,7 +130,8 @@
      "roman": "hoesa",
      "meaning": {
       "en": "company"
-     }
+     },
+     "image": "🏢"
     }
    ]
   },
@@ -141,7 +148,8 @@
      "roman": "won",
      "meaning": {
       "en": "won (Korean currency)"
-     }
+     },
+     "image": "💴"
     }
    ]
   },
@@ -158,7 +166,8 @@
      "roman": "weiteo",
      "meaning": {
       "en": "waiter"
-     }
+     },
+     "image": "🤵"
     }
    ]
   },
@@ -175,7 +184,8 @@
      "roman": "gwi",
      "meaning": {
       "en": "ear"
-     }
+     },
+     "image": "👂"
     }
    ]
   },
@@ -192,7 +202,8 @@
      "roman": "uisa",
      "meaning": {
       "en": "doctor"
-     }
+     },
+     "image": "🧑‍⚕️"
     }
    ]
   }

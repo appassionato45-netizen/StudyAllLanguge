@@ -8,42 +8,48 @@
    "roman": "kitakaze to taiyō ga hanashimashita.",
    "meaning": {
     "ko": "북풍과 해가 이야기했어요."
-   }
+   },
+   "image": "🌬️☀️"
   },
   {
    "text": "「どちらが つよいか、くらべよう。」",
    "roman": "\"dochira ga tsuyoi ka, kurabeyō.\"",
    "meaning": {
     "ko": "\"누가 더 센지 겨뤄 보자.\""
-   }
+   },
+   "image": "💪❓"
   },
   {
    "text": "みちを たびびとが あるいて いました。",
    "roman": "michi o tabibito ga aruite imashita.",
    "meaning": {
     "ko": "길을 나그네가 걷고 있었어요."
-   }
+   },
+   "image": "🛤️🚶"
   },
   {
    "text": "きたかぜは つよく ふきました。でも たびびとは コートを しっかり おさえました。",
    "roman": "kitakaze wa tsuyoku fukimashita. demo tabibito wa kōto o shikkari osaemashita.",
    "meaning": {
     "ko": "북풍은 세게 불었어요. 하지만 나그네는 코트를 꽉 붙잡았어요."
-   }
+   },
+   "image": "🌬️🧥"
   },
   {
    "text": "たいようは あたたかく てらしました。",
    "roman": "taiyō wa atatakaku terashimashita.",
    "meaning": {
     "ko": "해는 따뜻하게 비추었어요."
-   }
+   },
+   "image": "☀️🌤️"
   },
   {
    "text": "たびびとは あつくて コートを ぬぎました。",
    "roman": "tabibito wa atsukute kōto o nugimashita.",
    "meaning": {
     "ko": "나그네는 더워서 코트를 벗었어요."
-   }
+   },
+   "image": "🥵🧥"
   }
  ],
  "glossary": [
@@ -53,7 +59,8 @@
    "roman": "kaze",
    "meaning": {
     "ko": "바람"
-   }
+   },
+   "image": "🌬️"
   },
   {
    "id": "ja.story-north-wind-sun.taiyou",
@@ -61,7 +68,8 @@
    "roman": "taiyō",
    "meaning": {
     "ko": "해, 태양"
-   }
+   },
+   "image": "☀️"
   },
   {
    "id": "ja.story-north-wind-sun.tsuyoi",
@@ -69,7 +77,8 @@
    "roman": "tsuyoi",
    "meaning": {
     "ko": "세다, 강하다"
-   }
+   },
+   "image": "💪"
   },
   {
    "id": "ja.story-north-wind-sun.michi",
@@ -77,7 +86,8 @@
    "roman": "michi",
    "meaning": {
     "ko": "길"
-   }
+   },
+   "image": "🛤️"
   },
   {
    "id": "ja.story-north-wind-sun.atatakai",
@@ -85,7 +95,8 @@
    "roman": "atatakai",
    "meaning": {
     "ko": "따뜻하다"
-   }
+   },
+   "image": "🌤️"
   },
   {
    "id": "ja.story-north-wind-sun.atsui",
@@ -93,7 +104,8 @@
    "roman": "atsui",
    "meaning": {
     "ko": "덥다"
-   }
+   },
+   "image": "🥵"
   },
   {
    "id": "ja.story-north-wind-sun.nugu",
@@ -101,7 +113,8 @@
    "roman": "nugu",
    "meaning": {
     "ko": "벗다"
-   }
+   },
+   "image": "🧥"
   }
  ]
 }

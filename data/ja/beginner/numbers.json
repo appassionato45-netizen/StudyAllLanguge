@@ -8,7 +8,8 @@
    "roman": "ichi",
    "meaning": {
     "ko": "1"
-   }
+   },
+   "image": "1"
   },
   {
    "id": "ja.numbers.2",
@@ -16,7 +17,8 @@
    "roman": "ni",
    "meaning": {
     "ko": "2"
-   }
+   },
+   "image": "2"
   },
   {
    "id": "ja.numbers.3",
@@ -24,7 +26,8 @@
    "roman": "san",
    "meaning": {
     "ko": "3"
-   }
+   },
+   "image": "3"
   },
   {
    "id": "ja.numbers.4",
@@ -32,7 +35,8 @@
    "roman": "yon",
    "meaning": {
     "ko": "4 (し shi라고도 하지만 死와 발음이 같아 よん을 더 많이 써요)"
-   }
+   },
+   "image": "4"
   },
   {
    "id": "ja.numbers.5",
@@ -40,7 +44,8 @@
    "roman": "go",
    "meaning": {
     "ko": "5"
-   }
+   },
+   "image": "5"
   },
   {
    "id": "ja.numbers.6",
@@ -48,7 +53,8 @@
    "roman": "roku",
    "meaning": {
     "ko": "6"
-   }
+   },
+   "image": "6"
   },
   {
    "id": "ja.numbers.7",
@@ -56,7 +62,8 @@
    "roman": "nana",
    "meaning": {
     "ko": "7 (しち shichi라고도 해요)"
-   }
+   },
+   "image": "7"
   },
   {
    "id": "ja.numbers.8",
@@ -64,7 +71,8 @@
    "roman": "hachi",
    "meaning": {
     "ko": "8"
-   }
+   },
+   "image": "8"
   },
   {
    "id": "ja.numbers.9",
@@ -72,7 +80,8 @@
    "roman": "kyū",
    "meaning": {
     "ko": "9 (く ku라고도 해요)"
-   }
+   },
+   "image": "9"
   },
   {
    "id": "ja.numbers.10",
@@ -87,7 +96,8 @@
     "meaning": {
      "ko": "15"
     }
-   }
+   },
+   "image": "10"
   },
   {
    "id": "ja.numbers.100",
@@ -95,7 +105,8 @@
    "roman": "hyaku",
    "meaning": {
     "ko": "100"
-   }
+   },
+   "image": "100"
   },
   {
    "id": "ja.numbers.1000",
@@ -110,7 +121,8 @@
     "meaning": {
      "ko": "천 엔"
     }
-   }
+   },
+   "image": "1000"
   }
  ]
 }

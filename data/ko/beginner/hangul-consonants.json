@@ -1,6 +1,9 @@
 {
  "id": "hangul-consonants",
  "type": "letters",
+ "intro": {
+  "en": "Basic consonants are drawn after the shape of your mouth: ㄱ is the tongue touching the back of the mouth, ㄴ the tongue tip behind the teeth, ㅁ the closed lips, ㅅ a tooth, and ㅇ the open throat. Aspirated letters add a stroke: ㄱ → ㅋ."
+ },
  "items": [
   {
    "id": "ko.hangul-consonants.g",
@@ -15,7 +18,8 @@
      "roman": "gabang",
      "meaning": {
       "en": "bag"
-     }
+     },
+     "image": "🎒"
     }
    ]
   },
@@ -32,7 +36,8 @@
      "roman": "namu",
      "meaning": {
       "en": "tree"
-     }
+     },
+     "image": "🌳"
     }
    ]
   },
@@ -49,7 +54,8 @@
      "roman": "dari",
      "meaning": {
       "en": "leg; bridge"
-     }
+     },
+     "image": "🌉"
     }
    ]
   },
@@ -66,7 +72,8 @@
      "roman": "ramyeon",
      "meaning": {
       "en": "instant noodles"
-     }
+     },
+     "image": "🍜"
     }
    ]
   },
@@ -83,7 +90,8 @@
      "roman": "meori",
      "meaning": {
       "en": "head; hair"
-     }
+     },
+     "image": "🙆"
     }
    ]
   },
@@ -100,7 +108,8 @@
      "roman": "bada",
      "meaning": {
       "en": "sea"
-     }
+     },
+     "image": "🌊"
     }
    ]
   },
@@ -117,7 +126,8 @@
      "roman": "sagwa",
      "meaning": {
       "en": "apple"
-     }
+     },
+     "image": "🍎"
     },
     {
      "text": "시",
@@ -141,14 +151,16 @@
      "roman": "a-i",
      "meaning": {
       "en": "child"
-     }
+     },
+     "image": "🧒"
     },
     {
      "text": "강",
      "roman": "gang",
      "meaning": {
       "en": "river"
-     }
+     },
+     "image": "🏞️"
     }
    ]
   },
@@ -165,7 +177,8 @@
      "roman": "jido",
      "meaning": {
       "en": "map"
-     }
+     },
+     "image": "🗺️"
     }
    ]
   },
@@ -182,7 +195,8 @@
      "roman": "cha",
      "meaning": {
       "en": "car; tea"
-     }
+     },
+     "image": "🚗"
     }
    ]
   },
@@ -199,7 +213,8 @@
      "roman": "ko",
      "meaning": {
       "en": "nose"
-     }
+     },
+     "image": "👃"
     }
    ]
   },
@@ -216,7 +231,8 @@
      "roman": "tomato",
      "meaning": {
       "en": "tomato"
-     }
+     },
+     "image": "🍅"
     }
    ]
   },
@@ -233,7 +249,8 @@
      "roman": "podo",
      "meaning": {
       "en": "grapes"
-     }
+     },
+     "image": "🍇"
     }
    ]
   },
@@ -250,7 +267,8 @@
      "roman": "hana",
      "meaning": {
       "en": "one"
-     }
+     },
+     "image": "1️⃣"
     }
    ]
   }

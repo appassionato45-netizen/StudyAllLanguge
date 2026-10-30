@@ -8,56 +8,64 @@
    "roman": "tokkiwa geobugiga dalligi sihabeul haesseoyo.",
    "meaning": {
     "en": "A rabbit and a turtle had a race."
-   }
+   },
+   "image": "🐇🏁🐢"
   },
   {
    "text": "토끼는 아주 빨랐어요.",
    "roman": "tokkineun aju ppallasseoyo.",
    "meaning": {
     "en": "The rabbit was very fast."
-   }
+   },
+   "image": "🐇💨"
   },
   {
    "text": "거북이는 아주 느렸어요.",
    "roman": "geobugineun aju neuryeosseoyo.",
    "meaning": {
     "en": "The turtle was very slow."
-   }
+   },
+   "image": "🐢🐌"
   },
   {
    "text": "토끼가 생각했어요. \"조금 자도 괜찮아.\"",
    "roman": "tokkiga saenggakaesseoyo. \"jogeum jado gwaenchana.\"",
    "meaning": {
     "en": "The rabbit thought, \"It's fine if I sleep a little.\""
-   }
+   },
+   "image": "🐇💭"
   },
   {
    "text": "토끼는 나무 아래에서 잠을 잤어요.",
    "roman": "tokkineun namu araeeseo jameul jasseoyo.",
    "meaning": {
     "en": "The rabbit slept under a tree."
-   }
+   },
+   "image": "🌳😴🐇"
   },
   {
    "text": "거북이는 쉬지 않고 걸었어요.",
    "roman": "geobugineun swiji anko georeosseoyo.",
    "meaning": {
     "en": "The turtle kept walking without resting."
-   }
+   },
+   "image": "🐢🚶"
   },
   {
    "text": "토끼가 일어났을 때, 거북이는 벌써 도착했어요.",
    "roman": "tokkiga ireonasseul ttae, geobugineun beolsseo dochakaesseoyo.",
    "meaning": {
     "en": "When the rabbit woke up, the turtle had already arrived."
-   }
+   },
+   "image": "🐇😲🏁🐢"
   },
   {
    "text": "천천히 가도 포기하지 않으면 이길 수 있어요.",
    "roman": "cheoncheonhi gado pogihaji aneumyeon igil su isseoyo.",
    "meaning": {
     "en": "Even if you go slowly, you can win if you don't give up."
-   }
+   },
+   "image": "🏆"
   }
  ],
  "glossary": [
@@ -67,7 +75,8 @@
    "roman": "tokki",
    "meaning": {
     "en": "rabbit"
-   }
+   },
+   "image": "🐇"
   },
   {
    "id": "ko.story-rabbit-turtle.geobugi",
@@ -75,7 +84,8 @@
    "roman": "geobugi",
    "meaning": {
     "en": "turtle"
-   }
+   },
+   "image": "🐢"
   },
   {
    "id": "ko.story-rabbit-turtle.ppareuda",
@@ -83,7 +93,8 @@
    "roman": "ppareuda",
    "meaning": {
     "en": "to be fast"
-   }
+   },
+   "image": "💨"
   },
   {
    "id": "ko.story-rabbit-turtle.neurida",
@@ -91,7 +102,8 @@
    "roman": "neurida",
    "meaning": {
     "en": "to be slow"
-   }
+   },
+   "image": "🐌"
   },
   {
    "id": "ko.story-rabbit-turtle.jada",
@@ -99,7 +111,8 @@
    "roman": "jada",
    "meaning": {
     "en": "to sleep"
-   }
+   },
+   "image": "😴"
   },
   {
    "id": "ko.story-rabbit-turtle.swida",
@@ -107,7 +120,8 @@
    "roman": "swida",
    "meaning": {
     "en": "to rest"
-   }
+   },
+   "image": "🛋️"
   },
   {
    "id": "ko.story-rabbit-turtle.dochakada",
@@ -115,7 +129,8 @@
    "roman": "dochakada",
    "meaning": {
     "en": "to arrive"
-   }
+   },
+   "image": "🏁"
   }
  ]
 }
