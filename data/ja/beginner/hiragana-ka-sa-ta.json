@@ -15,7 +15,8 @@
      "roman": "kasa",
      "meaning": {
       "ko": "우산"
-     }
+     },
+     "image": "☂️"
     }
    ]
   },
@@ -32,7 +33,8 @@
      "roman": "kiku",
      "meaning": {
       "ko": "듣다"
-     }
+     },
+     "image": "👂"
     }
    ]
   },
@@ -49,7 +51,8 @@
      "roman": "kutsu",
      "meaning": {
       "ko": "신발"
-     }
+     },
+     "image": "👟"
     }
    ]
   },
@@ -66,7 +69,8 @@
      "roman": "ike",
      "meaning": {
       "ko": "연못"
-     }
+     },
+     "image": "🌊"
     }
    ]
   },
@@ -83,7 +87,8 @@
      "roman": "koko",
      "meaning": {
       "ko": "여기"
-     }
+     },
+     "image": "📍"
     }
    ]
   },
@@ -100,7 +105,8 @@
      "roman": "sake",
      "meaning": {
       "ko": "술"
-     }
+     },
+     "image": "🍶"
     }
    ]
   },
@@ -117,7 +123,8 @@
      "roman": "shio",
      "meaning": {
       "ko": "소금"
-     }
+     },
+     "image": "🧂"
     }
    ]
   },
@@ -134,7 +141,8 @@
      "roman": "sushi",
      "meaning": {
       "ko": "초밥"
-     }
+     },
+     "image": "🍣"
     }
    ]
   },
@@ -151,7 +159,8 @@
      "roman": "seki",
      "meaning": {
       "ko": "자리; 기침"
-     }
+     },
+     "image": "💺"
     }
    ]
   },
@@ -168,7 +177,8 @@
      "roman": "soko",
      "meaning": {
       "ko": "거기"
-     }
+     },
+     "image": "👉"
     }
    ]
   },
@@ -185,7 +195,8 @@
      "roman": "tako",
      "meaning": {
       "ko": "문어"
-     }
+     },
+     "image": "🐙"
     }
    ]
   },
@@ -202,7 +213,8 @@
      "roman": "chikatetsu",
      "meaning": {
       "ko": "지하철"
-     }
+     },
+     "image": "🚇"
     }
    ]
   },
@@ -219,7 +231,8 @@
      "roman": "tsukue",
      "meaning": {
       "ko": "책상"
-     }
+     },
+     "image": "🪑"
     }
    ]
   },
@@ -236,7 +249,8 @@
      "roman": "te",
      "meaning": {
       "ko": "손"
-     }
+     },
+     "image": "✋"
     }
    ]
   },
@@ -253,7 +267,8 @@
      "roman": "tokei",
      "meaning": {
       "ko": "시계"
-     }
+     },
+     "image": "⏰"
     }
    ]
   }

@@ -1,6 +1,10 @@
 {
  "id": "hiragana-combinations",
  "type": "letters",
+ "intro": {
+  "ko": "작은 글자(ゃゅょっ)와 긴 소리는 박자 감각이 중요해요. 박자를 틀리면 뜻이 바뀌어요."
+ },
+ "figure": "youon",
  "items": [
   {
    "id": "ja.hiragana-combinations.kya",
@@ -15,7 +19,8 @@
      "roman": "kyaku",
      "meaning": {
       "ko": "손님"
-     }
+     },
+     "image": "🧑‍💼"
     }
    ]
   },
@@ -32,7 +37,8 @@
      "roman": "kyū",
      "meaning": {
       "ko": "9"
-     }
+     },
+     "image": "9️⃣"
     }
    ]
   },
@@ -49,7 +55,8 @@
      "roman": "kyō",
      "meaning": {
       "ko": "오늘"
-     }
+     },
+     "image": "📅"
     }
    ]
   },
@@ -66,7 +73,8 @@
      "roman": "shashin",
      "meaning": {
       "ko": "사진"
-     }
+     },
+     "image": "📷"
     }
    ]
   },
@@ -83,7 +91,8 @@
      "roman": "shukudai",
      "meaning": {
       "ko": "숙제"
-     }
+     },
+     "image": "📝"
     }
    ]
   },
@@ -100,7 +109,8 @@
      "roman": "shokuji",
      "meaning": {
       "ko": "식사"
-     }
+     },
+     "image": "🍽️"
     }
    ]
   },
@@ -117,7 +127,8 @@
      "roman": "ocha",
      "meaning": {
       "ko": "차(마시는 차)"
-     }
+     },
+     "image": "🍵"
     }
    ]
   },
@@ -134,7 +145,8 @@
      "roman": "chūi",
      "meaning": {
       "ko": "주의"
-     }
+     },
+     "image": "⚠️"
     }
    ]
   },
@@ -151,7 +163,8 @@
      "roman": "chotto",
      "meaning": {
       "ko": "조금"
-     }
+     },
+     "image": "🤏"
     }
    ]
   },
@@ -168,7 +181,8 @@
      "roman": "jama",
      "meaning": {
       "ko": "방해"
-     }
+     },
+     "image": "🚧"
     }
    ]
   },
@@ -185,7 +199,8 @@
      "roman": "jugyō",
      "meaning": {
       "ko": "수업"
-     }
+     },
+     "image": "🏫"
     }
    ]
   },
@@ -202,7 +217,8 @@
      "roman": "jōzu",
      "meaning": {
       "ko": "잘함, 능숙함"
-     }
+     },
+     "image": "👍"
     }
    ]
   },
@@ -219,14 +235,16 @@
      "roman": "kitte",
      "meaning": {
       "ko": "우표"
-     }
+     },
+     "image": "📮"
     },
     {
      "text": "ざっし",
      "roman": "zasshi",
      "meaning": {
       "ko": "잡지"
-     }
+     },
+     "image": "📰"
     }
    ]
   },
@@ -243,14 +261,16 @@
      "roman": "Tōkyō",
      "meaning": {
       "ko": "도쿄"
-     }
+     },
+     "image": "🗼"
     },
     {
      "text": "せんせい",
      "roman": "sensei",
      "meaning": {
       "ko": "선생님"
-     }
+     },
+     "image": "🧑‍🏫"
     }
    ]
   }

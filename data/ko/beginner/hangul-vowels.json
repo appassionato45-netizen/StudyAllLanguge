@@ -1,6 +1,10 @@
 {
  "id": "hangul-vowels",
  "type": "letters",
+ "intro": {
+  "en": "Hangul was designed in 1443 so that anyone could learn to read in a few days. Start with the 10 basic vowels; tap 🔊 to hear each one."
+ },
+ "figure": "vowel-strokes",
  "items": [
   {
    "id": "ko.hangul-vowels.a",
@@ -15,7 +19,8 @@
      "roman": "a-i",
      "meaning": {
       "en": "child"
-     }
+     },
+     "image": "🧒"
     }
    ]
   },
@@ -32,7 +37,8 @@
      "roman": "yagu",
      "meaning": {
       "en": "baseball"
-     }
+     },
+     "image": "⚾"
     }
    ]
   },
@@ -49,7 +55,8 @@
      "roman": "eomeoni",
      "meaning": {
       "en": "mother"
-     }
+     },
+     "image": "👩"
     }
    ]
   },
@@ -66,7 +73,8 @@
      "roman": "yeoja",
      "meaning": {
       "en": "woman"
-     }
+     },
+     "image": "👩"
     }
    ]
   },
@@ -83,7 +91,8 @@
      "roman": "o-i",
      "meaning": {
       "en": "cucumber"
-     }
+     },
+     "image": "🥒"
     }
    ]
   },
@@ -100,7 +109,8 @@
      "roman": "yori",
      "meaning": {
       "en": "cooking"
-     }
+     },
+     "image": "🍳"
     }
    ]
   },
@@ -117,7 +127,8 @@
      "roman": "uyu",
      "meaning": {
       "en": "milk"
-     }
+     },
+     "image": "🥛"
     }
    ]
   },
@@ -134,7 +145,8 @@
      "roman": "yuri",
      "meaning": {
       "en": "glass"
-     }
+     },
+     "image": "🪟"
     }
    ]
   },
@@ -168,7 +180,8 @@
      "roman": "i",
      "meaning": {
       "en": "tooth; two"
-     }
+     },
+     "image": "🦷"
     }
    ]
   }

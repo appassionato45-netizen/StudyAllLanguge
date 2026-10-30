@@ -1,6 +1,9 @@
 {
  "id": "katakana",
  "type": "letters",
+ "intro": {
+  "ko": "가타카나는 히라가나와 소리가 같고, 주로 외래어와 외국 이름에 써요. 커피(コーヒー), 빵(パン)처럼 익숙한 단어로 익혀요."
+ },
  "items": [
   {
    "id": "ja.katakana.a",
@@ -15,7 +18,8 @@
      "roman": "aisu",
      "meaning": {
       "ko": "아이스크림"
-     }
+     },
+     "image": "🍦"
     }
    ]
   },
@@ -32,7 +36,8 @@
      "roman": "inku",
      "meaning": {
       "ko": "잉크"
-     }
+     },
+     "image": "🖋️"
     }
    ]
   },
@@ -49,7 +54,8 @@
      "roman": "uirusu",
      "meaning": {
       "ko": "바이러스"
-     }
+     },
+     "image": "🦠"
     }
    ]
   },
@@ -66,7 +72,8 @@
      "roman": "eakon",
      "meaning": {
       "ko": "에어컨"
-     }
+     },
+     "image": "❄️"
     }
    ]
   },
@@ -83,7 +90,8 @@
      "roman": "orenji",
      "meaning": {
       "ko": "오렌지"
-     }
+     },
+     "image": "🍊"
     }
    ]
   },
@@ -100,7 +108,8 @@
      "roman": "kamera",
      "meaning": {
       "ko": "카메라"
-     }
+     },
+     "image": "📷"
     }
    ]
   },
@@ -117,7 +126,8 @@
      "roman": "kiro",
      "meaning": {
       "ko": "킬로"
-     }
+     },
+     "image": "⚖️"
     }
    ]
   },
@@ -134,7 +144,8 @@
      "roman": "kurasu",
      "meaning": {
       "ko": "반, 클래스"
-     }
+     },
+     "image": "🏫"
     }
    ]
   },
@@ -151,7 +162,8 @@
      "roman": "kēki",
      "meaning": {
       "ko": "케이크"
-     }
+     },
+     "image": "🍰"
     }
    ]
   },
@@ -168,7 +180,8 @@
      "roman": "kōhī",
      "meaning": {
       "ko": "커피"
-     }
+     },
+     "image": "☕"
     }
    ]
   },
@@ -185,7 +198,8 @@
      "roman": "sarada",
      "meaning": {
       "ko": "샐러드"
-     }
+     },
+     "image": "🥗"
     }
    ]
   },
@@ -202,7 +216,8 @@
      "roman": "shatsu",
      "meaning": {
       "ko": "셔츠"
-     }
+     },
+     "image": "👕"
     }
    ]
   },
@@ -219,7 +234,8 @@
      "roman": "sūpu",
      "meaning": {
       "ko": "수프"
-     }
+     },
+     "image": "🍲"
     }
    ]
   },
@@ -236,7 +252,8 @@
      "roman": "sētā",
      "meaning": {
       "ko": "스웨터"
-     }
+     },
+     "image": "🧶"
     }
    ]
   },
@@ -253,7 +270,8 @@
      "roman": "sofa",
      "meaning": {
       "ko": "소파"
-     }
+     },
+     "image": "🛋️"
     }
    ]
   },
@@ -270,7 +288,8 @@
      "roman": "takushī",
      "meaning": {
       "ko": "택시"
-     }
+     },
+     "image": "🚕"
     }
    ]
   },
@@ -287,7 +306,8 @@
      "roman": "chīzu",
      "meaning": {
       "ko": "치즈"
-     }
+     },
+     "image": "🧀"
     }
    ]
   },
@@ -304,7 +324,8 @@
      "roman": "tsuā",
      "meaning": {
       "ko": "투어"
-     }
+     },
+     "image": "🧳"
     }
    ]
   },
@@ -321,7 +342,8 @@
      "roman": "terebi",
      "meaning": {
       "ko": "텔레비전"
-     }
+     },
+     "image": "📺"
     }
    ]
   },
@@ -338,7 +360,8 @@
      "roman": "tomato",
      "meaning": {
       "ko": "토마토"
-     }
+     },
+     "image": "🍅"
     }
    ]
   },
@@ -355,7 +378,8 @@
      "roman": "naifu",
      "meaning": {
       "ko": "나이프"
-     }
+     },
+     "image": "🔪"
     }
    ]
   },
@@ -372,7 +396,8 @@
      "roman": "nyūsu",
      "meaning": {
       "ko": "뉴스"
-     }
+     },
+     "image": "📰"
     }
    ]
   },
@@ -389,7 +414,8 @@
      "roman": "nūdoru",
      "meaning": {
       "ko": "누들, 면"
-     }
+     },
+     "image": "🍜"
     }
    ]
   },
@@ -406,7 +432,8 @@
      "roman": "nekutai",
      "meaning": {
       "ko": "넥타이"
-     }
+     },
+     "image": "👔"
     }
    ]
   },
@@ -423,7 +450,8 @@
      "roman": "nōto",
      "meaning": {
       "ko": "공책"
-     }
+     },
+     "image": "📓"
     }
    ]
   },
@@ -440,7 +468,8 @@
      "roman": "hanbāgā",
      "meaning": {
       "ko": "햄버거"
-     }
+     },
+     "image": "🍔"
     }
    ]
   },
@@ -457,7 +486,8 @@
      "roman": "hītā",
      "meaning": {
       "ko": "히터"
-     }
+     },
+     "image": "🔥"
     }
    ]
   },
@@ -474,7 +504,8 @@
      "roman": "fōku",
      "meaning": {
       "ko": "포크"
-     }
+     },
+     "image": "🍴"
     }
    ]
   },
@@ -491,7 +522,8 @@
      "roman": "herikoputā",
      "meaning": {
       "ko": "헬리콥터"
-     }
+     },
+     "image": "🚁"
     }
    ]
   },
@@ -508,7 +540,8 @@
      "roman": "hoteru",
      "meaning": {
       "ko": "호텔"
-     }
+     },
+     "image": "🏨"
     }
    ]
   },
@@ -525,7 +558,8 @@
      "roman": "masuku",
      "meaning": {
       "ko": "마스크"
-     }
+     },
+     "image": "😷"
     }
    ]
   },
@@ -542,7 +576,8 @@
      "roman": "miruku",
      "meaning": {
       "ko": "우유"
-     }
+     },
+     "image": "🥛"
     }
    ]
   },
@@ -559,7 +594,8 @@
      "roman": "gēmu",
      "meaning": {
       "ko": "게임"
-     }
+     },
+     "image": "🎮"
     }
    ]
   },
@@ -576,7 +612,8 @@
      "roman": "mēru",
      "meaning": {
       "ko": "메일"
-     }
+     },
+     "image": "📧"
     }
    ]
   },
@@ -593,7 +630,8 @@
      "roman": "moderu",
      "meaning": {
       "ko": "모델"
-     }
+     },
+     "image": "🧍"
     }
    ]
   },
@@ -610,7 +648,8 @@
      "roman": "taiya",
      "meaning": {
       "ko": "타이어"
-     }
+     },
+     "image": "🛞"
     }
    ]
   },
@@ -627,7 +666,8 @@
      "roman": "yūmoa",
      "meaning": {
       "ko": "유머"
-     }
+     },
+     "image": "😄"
     }
    ]
   },
@@ -644,7 +684,8 @@
      "roman": "yōguruto",
      "meaning": {
       "ko": "요구르트"
-     }
+     },
+     "image": "🥣"
     }
    ]
   },
@@ -661,7 +702,8 @@
      "roman": "rajio",
      "meaning": {
       "ko": "라디오"
-     }
+     },
+     "image": "📻"
     }
    ]
   },
@@ -678,7 +720,8 @@
      "roman": "rimokon",
      "meaning": {
       "ko": "리모컨"
-     }
+     },
+     "image": "🎛️"
     }
    ]
   },
@@ -695,7 +738,8 @@
      "roman": "rūru",
      "meaning": {
       "ko": "규칙"
-     }
+     },
+     "image": "📏"
     }
    ]
   },
@@ -712,7 +756,8 @@
      "roman": "remon",
      "meaning": {
       "ko": "레몬"
-     }
+     },
+     "image": "🍋"
     }
    ]
   },
@@ -729,7 +774,8 @@
      "roman": "robotto",
      "meaning": {
       "ko": "로봇"
-     }
+     },
+     "image": "🤖"
     }
    ]
   },
@@ -746,7 +792,8 @@
      "roman": "wain",
      "meaning": {
       "ko": "와인"
-     }
+     },
+     "image": "🍷"
     }
    ]
   },
@@ -763,7 +810,8 @@
      "roman": "pan",
      "meaning": {
       "ko": "빵"
-     }
+     },
+     "image": "🍞"
     }
    ]
   },
@@ -780,7 +828,8 @@
      "roman": "kōhī",
      "meaning": {
       "ko": "커피"
-     }
+     },
+     "image": "☕"
     }
    ]
   }

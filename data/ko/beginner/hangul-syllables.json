@@ -1,6 +1,10 @@
 {
  "id": "hangul-syllables",
  "type": "letters",
+ "intro": {
+  "en": "Now put letters together. Korean is written in blocks, one per syllable."
+ },
+ "figure": "syllable-blocks",
  "items": [
   {
    "id": "ko.hangul-syllables.ga",
@@ -15,7 +19,8 @@
      "roman": "gagu",
      "meaning": {
       "en": "furniture"
-     }
+     },
+     "image": "🛋️"
     }
    ]
   },
@@ -32,7 +37,8 @@
      "roman": "gogi",
      "meaning": {
       "en": "meat"
-     }
+     },
+     "image": "🥩"
     }
    ]
   },
@@ -49,7 +55,8 @@
      "roman": "agi",
      "meaning": {
       "en": "baby"
-     }
+     },
+     "image": "👶"
     }
    ]
   },
@@ -66,7 +73,8 @@
      "roman": "hanguk",
      "meaning": {
       "en": "Korea"
-     }
+     },
+     "image": "🇰🇷"
     }
    ]
   },
@@ -83,7 +91,8 @@
      "roman": "hangeul",
      "meaning": {
       "en": "the Korean alphabet"
-     }
+     },
+     "image": "🔤"
     }
    ]
   },
@@ -100,7 +109,8 @@
      "roman": "gwaja",
      "meaning": {
       "en": "snack; cookie"
-     }
+     },
+     "image": "🍪"
     }
    ]
   }

@@ -8,42 +8,48 @@
    "roman": "usagi to kame ga kakekko o shimashita.",
    "meaning": {
     "ko": "토끼와 거북이가 달리기 시합을 했어요."
-   }
+   },
+   "image": "🐇🏁🐢"
   },
   {
    "text": "うさぎは とても はやいです。",
    "roman": "usagi wa totemo hayai desu.",
    "meaning": {
     "ko": "토끼는 아주 빨라요."
-   }
+   },
+   "image": "🐇💨"
   },
   {
    "text": "かめは とても おそいです。",
    "roman": "kame wa totemo osoi desu.",
    "meaning": {
     "ko": "거북이는 아주 느려요."
-   }
+   },
+   "image": "🐢🐌"
   },
   {
    "text": "うさぎは 「すこし ねよう」と おもいました。",
    "roman": "usagi wa \"sukoshi neyō\" to omoimashita.",
    "meaning": {
     "ko": "토끼는 \"조금 자야지\" 하고 생각했어요."
-   }
+   },
+   "image": "🐇💭"
   },
   {
    "text": "かめは やすまないで あるきました。",
    "roman": "kame wa yasumanaide arukimashita.",
    "meaning": {
     "ko": "거북이는 쉬지 않고 걸었어요."
-   }
+   },
+   "image": "🐢🚶"
   },
   {
    "text": "うさぎが おきた とき、かめは もう ゴールに いました。",
    "roman": "usagi ga okita toki, kame wa mō gōru ni imashita.",
    "meaning": {
     "ko": "토끼가 일어났을 때, 거북이는 벌써 결승점에 있었어요."
-   }
+   },
+   "image": "🐇😲🏁🐢"
   }
  ],
  "glossary": [
@@ -53,7 +59,8 @@
    "roman": "usagi",
    "meaning": {
     "ko": "토끼"
-   }
+   },
+   "image": "🐇"
   },
   {
    "id": "ja.story-rabbit-turtle.kame",
@@ -61,7 +68,8 @@
    "roman": "kame",
    "meaning": {
     "ko": "거북이"
-   }
+   },
+   "image": "🐢"
   },
   {
    "id": "ja.story-rabbit-turtle.hayai",
@@ -69,7 +77,8 @@
    "roman": "hayai",
    "meaning": {
     "ko": "빠르다"
-   }
+   },
+   "image": "💨"
   },
   {
    "id": "ja.story-rabbit-turtle.osoi",
@@ -77,7 +86,8 @@
    "roman": "osoi",
    "meaning": {
     "ko": "느리다"
-   }
+   },
+   "image": "🐌"
   },
   {
    "id": "ja.story-rabbit-turtle.neru",
@@ -85,7 +95,8 @@
    "roman": "neru",
    "meaning": {
     "ko": "자다"
-   }
+   },
+   "image": "😴"
   },
   {
    "id": "ja.story-rabbit-turtle.yasumu",
@@ -93,7 +104,8 @@
    "roman": "yasumu",
    "meaning": {
     "ko": "쉬다"
-   }
+   },
+   "image": "🛋️"
   },
   {
    "id": "ja.story-rabbit-turtle.aruku",
@@ -101,7 +113,8 @@
    "roman": "aruku",
    "meaning": {
     "ko": "걷다"
-   }
+   },
+   "image": "🚶"
   }
  ]
 }

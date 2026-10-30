@@ -66,6 +66,14 @@ Every unit file has `{ "id", "type", "items" }`. Every item that can be reviewed
 ### `story`
 `items` is the list of paragraphs (same shape as a dialogue line, without `speaker`). An optional top-level `"glossary"` holds `vocab` items so key words can be reviewed as flashcards. Stories must be original or in the public domain; note the source in `"source"`.
 
+## Pictures and explanations
+
+- `image` (optional) on any vocab item, example, glossary item, or story paragraph: an emoji shown as the picture. Emoji need no image files, cost nothing to host, and carry no copyright risk.
+- `intro` (optional, localized) on a unit file: a short explanation shown above the lesson.
+- `figure` (optional) on a unit file: the name of a diagram in `js/figures.js` (`vowel-strokes`, `syllable-blocks`, `batchim`, `dakuten`, `youon`).
+
+Courses in `courses.json` also carry `glyph` (the big letter on the course card), `color`, and a localized `tagline`.
+
 ## Copyright rule
 
 No drama scripts, subtitles, or song lyrics from real productions. "Drama-style" units are original dialogues written for this site.

@@ -15,7 +15,8 @@
      "roman": "natsu",
      "meaning": {
       "ko": "여름"
-     }
+     },
+     "image": "🌻"
     }
    ]
   },
@@ -32,7 +33,8 @@
      "roman": "niku",
      "meaning": {
       "ko": "고기"
-     }
+     },
+     "image": "🥩"
     }
    ]
   },
@@ -49,7 +51,8 @@
      "roman": "inu",
      "meaning": {
       "ko": "개"
-     }
+     },
+     "image": "🐕"
     }
    ]
   },
@@ -66,7 +69,8 @@
      "roman": "neko",
      "meaning": {
       "ko": "고양이"
-     }
+     },
+     "image": "🐈"
     }
    ]
   },
@@ -83,7 +87,8 @@
      "roman": "nomimono",
      "meaning": {
       "ko": "음료"
-     }
+     },
+     "image": "🥤"
     }
    ]
   },
@@ -100,7 +105,8 @@
      "roman": "hana",
      "meaning": {
       "ko": "꽃"
-     }
+     },
+     "image": "🌸"
     },
     {
      "text": "わたしは",
@@ -124,7 +130,8 @@
      "roman": "hito",
      "meaning": {
       "ko": "사람"
-     }
+     },
+     "image": "🧍"
     }
    ]
   },
@@ -141,7 +148,8 @@
      "roman": "fune",
      "meaning": {
       "ko": "배(船)"
-     }
+     },
+     "image": "🚢"
     }
    ]
   },
@@ -158,7 +166,8 @@
      "roman": "heya",
      "meaning": {
       "ko": "방"
-     }
+     },
+     "image": "🛏️"
     }
    ]
   },
@@ -175,7 +184,8 @@
      "roman": "hoshi",
      "meaning": {
       "ko": "별"
-     }
+     },
+     "image": "⭐"
     }
    ]
   },
@@ -192,7 +202,8 @@
      "roman": "mado",
      "meaning": {
       "ko": "창문"
-     }
+     },
+     "image": "🪟"
     }
    ]
   },
@@ -209,7 +220,8 @@
      "roman": "mimi",
      "meaning": {
       "ko": "귀"
-     }
+     },
+     "image": "👂"
     }
    ]
   },
@@ -226,7 +238,8 @@
      "roman": "mushi",
      "meaning": {
       "ko": "벌레"
-     }
+     },
+     "image": "🐛"
     }
    ]
   },
@@ -243,7 +256,8 @@
      "roman": "me",
      "meaning": {
       "ko": "눈(目)"
-     }
+     },
+     "image": "👁️"
     }
    ]
   },
@@ -260,7 +274,8 @@
      "roman": "momo",
      "meaning": {
       "ko": "복숭아"
-     }
+     },
+     "image": "🍑"
     }
    ]
   }

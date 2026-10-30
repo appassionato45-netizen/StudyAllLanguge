@@ -15,7 +15,8 @@
     "meaning": {
      "en": "January"
     }
-   }
+   },
+   "image": "1"
   },
   {
    "id": "ko.numbers-sino.2",
@@ -23,7 +24,8 @@
    "roman": "i",
    "meaning": {
     "en": "two (Sino-Korean)"
-   }
+   },
+   "image": "2"
   },
   {
    "id": "ko.numbers-sino.3",
@@ -31,7 +33,8 @@
    "roman": "sam",
    "meaning": {
     "en": "three (Sino-Korean)"
-   }
+   },
+   "image": "3"
   },
   {
    "id": "ko.numbers-sino.4",
@@ -39,7 +42,8 @@
    "roman": "sa",
    "meaning": {
     "en": "four (Sino-Korean)"
-   }
+   },
+   "image": "4"
   },
   {
    "id": "ko.numbers-sino.5",
@@ -47,7 +51,8 @@
    "roman": "o",
    "meaning": {
     "en": "five (Sino-Korean)"
-   }
+   },
+   "image": "5"
   },
   {
    "id": "ko.numbers-sino.6",
@@ -55,7 +60,8 @@
    "roman": "yuk",
    "meaning": {
     "en": "six (Sino-Korean)"
-   }
+   },
+   "image": "6"
   },
   {
    "id": "ko.numbers-sino.7",
@@ -63,7 +69,8 @@
    "roman": "chil",
    "meaning": {
     "en": "seven (Sino-Korean)"
-   }
+   },
+   "image": "7"
   },
   {
    "id": "ko.numbers-sino.8",
@@ -71,7 +78,8 @@
    "roman": "pal",
    "meaning": {
     "en": "eight (Sino-Korean)"
-   }
+   },
+   "image": "8"
   },
   {
    "id": "ko.numbers-sino.9",
@@ -79,7 +87,8 @@
    "roman": "gu",
    "meaning": {
     "en": "nine (Sino-Korean)"
-   }
+   },
+   "image": "9"
   },
   {
    "id": "ko.numbers-sino.10",
@@ -94,7 +103,8 @@
     "meaning": {
      "en": "fifteen"
     }
-   }
+   },
+   "image": "10"
   },
   {
    "id": "ko.numbers-sino.100",
@@ -102,7 +112,8 @@
    "roman": "baek",
    "meaning": {
     "en": "one hundred"
-   }
+   },
+   "image": "100"
   },
   {
    "id": "ko.numbers-sino.1000",
@@ -117,7 +128,8 @@
     "meaning": {
      "en": "1,000 won"
     }
-   }
+   },
+   "image": "1000"
   }
  ]
 }

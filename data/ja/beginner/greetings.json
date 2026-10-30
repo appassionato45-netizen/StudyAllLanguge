@@ -8,7 +8,8 @@
    "roman": "ohayō gozaimasu",
    "meaning": {
     "ko": "안녕하세요 (아침 인사)"
-   }
+   },
+   "image": "🌅"
   },
   {
    "id": "ja.greetings.konnichiwa",
@@ -16,7 +17,8 @@
    "roman": "konnichiwa",
    "meaning": {
     "ko": "안녕하세요 (낮 인사). 끝의 は는 wa로 읽어요."
-   }
+   },
+   "image": "☀️"
   },
   {
    "id": "ja.greetings.konbanwa",
@@ -24,7 +26,8 @@
    "roman": "konbanwa",
    "meaning": {
     "ko": "안녕하세요 (저녁 인사)"
-   }
+   },
+   "image": "🌙"
   },
   {
    "id": "ja.greetings.arigatou",
@@ -32,7 +35,8 @@
    "roman": "arigatō gozaimasu",
    "meaning": {
     "ko": "감사합니다"
-   }
+   },
+   "image": "🙏"
   },
   {
    "id": "ja.greetings.sumimasen",
@@ -47,7 +51,8 @@
     "meaning": {
      "ko": "실례합니다, 역은 어디예요?"
     }
-   }
+   },
+   "image": "🙇"
   },
   {
    "id": "ja.greetings.hai",
@@ -55,7 +60,8 @@
    "roman": "hai",
    "meaning": {
     "ko": "네"
-   }
+   },
+   "image": "⭕"
   },
   {
    "id": "ja.greetings.iie",
@@ -63,7 +69,8 @@
    "roman": "iie",
    "meaning": {
     "ko": "아니요"
-   }
+   },
+   "image": "❌"
   },
   {
    "id": "ja.greetings.sayounara",
@@ -71,7 +78,8 @@
    "roman": "sayōnara",
    "meaning": {
     "ko": "안녕히 가세요 (오래 헤어질 때)"
-   }
+   },
+   "image": "👋"
   },
   {
    "id": "ja.greetings.oyasuminasai",
@@ -79,7 +87,8 @@
    "roman": "oyasuminasai",
    "meaning": {
     "ko": "안녕히 주무세요"
-   }
+   },
+   "image": "😴"
   },
   {
    "id": "ja.greetings.itadakimasu",
@@ -87,7 +96,8 @@
    "roman": "itadakimasu",
    "meaning": {
     "ko": "잘 먹겠습니다"
-   }
+   },
+   "image": "🍽️"
   }
  ]
 }

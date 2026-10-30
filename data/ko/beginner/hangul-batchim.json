@@ -1,6 +1,10 @@
 {
  "id": "hangul-batchim",
  "type": "letters",
+ "intro": {
+  "en": "The consonant at the bottom of a block is the batchim. Learn its seven end sounds and you can read almost any word."
+ },
+ "figure": "batchim",
  "items": [
   {
    "id": "ko.hangul-batchim.k",
@@ -15,14 +19,16 @@
      "roman": "chaek",
      "meaning": {
       "en": "book"
-     }
+     },
+     "image": "📕"
     },
     {
      "text": "부엌",
      "roman": "bueok",
      "meaning": {
       "en": "kitchen"
-     }
+     },
+     "image": "🍳"
     }
    ]
   },
@@ -39,7 +45,8 @@
      "roman": "san",
      "meaning": {
       "en": "mountain"
-     }
+     },
+     "image": "⛰️"
     }
    ]
   },
@@ -56,14 +63,16 @@
      "roman": "ot",
      "meaning": {
       "en": "clothes"
-     }
+     },
+     "image": "👕"
     },
     {
      "text": "낮",
      "roman": "nat",
      "meaning": {
       "en": "daytime"
-     }
+     },
+     "image": "☀️"
     }
    ]
   },
@@ -80,7 +89,8 @@
      "roman": "mul",
      "meaning": {
       "en": "water"
-     }
+     },
+     "image": "💧"
     }
    ]
   },
@@ -97,7 +107,8 @@
      "roman": "bam",
      "meaning": {
       "en": "night; chestnut"
-     }
+     },
+     "image": "🌙"
     }
    ]
   },
@@ -114,14 +125,16 @@
      "roman": "bap",
      "meaning": {
       "en": "cooked rice; meal"
-     }
+     },
+     "image": "🍚"
     },
     {
      "text": "앞",
      "roman": "ap",
      "meaning": {
       "en": "front"
-     }
+     },
+     "image": "⬆️"
     }
    ]
   },
@@ -138,7 +151,8 @@
      "roman": "bang",
      "meaning": {
       "en": "room"
-     }
+     },
+     "image": "🛏️"
     }
    ]
   }

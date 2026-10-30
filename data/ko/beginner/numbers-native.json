@@ -15,7 +15,8 @@
     "meaning": {
      "en": "one item"
     }
-   }
+   },
+   "image": "1"
   },
   {
    "id": "ko.numbers-native.2",
@@ -30,7 +31,8 @@
     "meaning": {
      "en": "two cups"
     }
-   }
+   },
+   "image": "2"
   },
   {
    "id": "ko.numbers-native.3",
@@ -38,7 +40,8 @@
    "roman": "set",
    "meaning": {
     "en": "three (native Korean; 세 before a counter)"
-   }
+   },
+   "image": "3"
   },
   {
    "id": "ko.numbers-native.4",
@@ -46,7 +49,8 @@
    "roman": "net",
    "meaning": {
     "en": "four (native Korean; 네 before a counter)"
-   }
+   },
+   "image": "4"
   },
   {
    "id": "ko.numbers-native.5",
@@ -54,7 +58,8 @@
    "roman": "daseot",
    "meaning": {
     "en": "five (native Korean)"
-   }
+   },
+   "image": "5"
   },
   {
    "id": "ko.numbers-native.6",
@@ -62,7 +67,8 @@
    "roman": "yeoseot",
    "meaning": {
     "en": "six (native Korean)"
-   }
+   },
+   "image": "6"
   },
   {
    "id": "ko.numbers-native.7",
@@ -70,7 +76,8 @@
    "roman": "ilgop",
    "meaning": {
     "en": "seven (native Korean)"
-   }
+   },
+   "image": "7"
   },
   {
    "id": "ko.numbers-native.8",
@@ -78,7 +85,8 @@
    "roman": "yeodeol",
    "meaning": {
     "en": "eight (native Korean)"
-   }
+   },
+   "image": "8"
   },
   {
    "id": "ko.numbers-native.9",
@@ -86,7 +94,8 @@
    "roman": "ahop",
    "meaning": {
     "en": "nine (native Korean)"
-   }
+   },
+   "image": "9"
   },
   {
    "id": "ko.numbers-native.10",
@@ -94,7 +103,8 @@
    "roman": "yeol",
    "meaning": {
     "en": "ten (native Korean)"
-   }
+   },
+   "image": "10"
   }
  ]
 }

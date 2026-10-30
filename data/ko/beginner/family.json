@@ -8,7 +8,8 @@
    "roman": "gajok",
    "meaning": {
     "en": "family"
-   }
+   },
+   "image": "👨‍👩‍👧"
   },
   {
    "id": "ko.family.eomeoni",
@@ -16,7 +17,8 @@
    "roman": "eomeoni",
    "meaning": {
     "en": "mother (polite)"
-   }
+   },
+   "image": "👩"
   },
   {
    "id": "ko.family.abeoji",
@@ -24,7 +26,8 @@
    "roman": "abeoji",
    "meaning": {
     "en": "father (polite)"
-   }
+   },
+   "image": "👨"
   },
   {
    "id": "ko.family.eomma",
@@ -32,7 +35,8 @@
    "roman": "eomma",
    "meaning": {
     "en": "mom"
-   }
+   },
+   "image": "👩"
   },
   {
    "id": "ko.family.appa",
@@ -40,7 +44,8 @@
    "roman": "appa",
    "meaning": {
     "en": "dad"
-   }
+   },
+   "image": "👨"
   },
   {
    "id": "ko.family.hyeong",
@@ -48,7 +53,8 @@
    "roman": "hyeong",
    "meaning": {
     "en": "older brother (said by a male)"
-   }
+   },
+   "image": "👦"
   },
   {
    "id": "ko.family.oppa",
@@ -56,7 +62,8 @@
    "roman": "oppa",
    "meaning": {
     "en": "older brother (said by a female)"
-   }
+   },
+   "image": "👦"
   },
   {
    "id": "ko.family.nuna",
@@ -64,7 +71,8 @@
    "roman": "nuna",
    "meaning": {
     "en": "older sister (said by a male)"
-   }
+   },
+   "image": "👧"
   },
   {
    "id": "ko.family.eonni",
@@ -72,7 +80,8 @@
    "roman": "eonni",
    "meaning": {
     "en": "older sister (said by a female)"
-   }
+   },
+   "image": "👧"
   },
   {
    "id": "ko.family.dongsaeng",
@@ -87,7 +96,8 @@
     "meaning": {
      "en": "This is my younger sibling."
     }
-   }
+   },
+   "image": "🧒"
   }
  ]
 }

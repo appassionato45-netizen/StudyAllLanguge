@@ -8,6 +8,12 @@
         "en": "Learn Korean",
         "ko": "한국어 배우기"
       },
+      "glyph": "한",
+      "color": "#e4572e",
+      "tagline": {
+        "en": "For English speakers. From the alphabet to your first stories.",
+        "ko": "영어 사용자를 위한 한국어. 한글부터 첫 동화까지."
+      },
       "levels": [
         {
           "id": "beginner",
@@ -172,6 +178,12 @@
       "title": {
         "en": "Learn Japanese",
         "ko": "일본어 배우기"
+      },
+      "glyph": "あ",
+      "color": "#2f6fdb",
+      "tagline": {
+        "en": "For Korean speakers. Hiragana, katakana, and first conversations.",
+        "ko": "한국어 사용자를 위한 일본어. 히라가나·가타카나부터 첫 회화까지."
       },
       "levels": [
         {

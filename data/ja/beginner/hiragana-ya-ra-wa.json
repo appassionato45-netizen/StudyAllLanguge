@@ -15,7 +15,8 @@
      "roman": "yama",
      "meaning": {
       "ko": "산"
-     }
+     },
+     "image": "⛰️"
     }
    ]
   },
@@ -32,7 +33,8 @@
      "roman": "yuki",
      "meaning": {
       "ko": "눈(雪)"
-     }
+     },
+     "image": "❄️"
     }
    ]
   },
@@ -49,7 +51,8 @@
      "roman": "yoru",
      "meaning": {
       "ko": "밤"
-     }
+     },
+     "image": "🌙"
     }
    ]
   },
@@ -66,7 +69,8 @@
      "roman": "sora",
      "meaning": {
       "ko": "하늘"
-     }
+     },
+     "image": "🌌"
     }
    ]
   },
@@ -83,7 +87,8 @@
      "roman": "ringo",
      "meaning": {
       "ko": "사과"
-     }
+     },
+     "image": "🍎"
     }
    ]
   },
@@ -100,7 +105,8 @@
      "roman": "haru",
      "meaning": {
       "ko": "봄"
-     }
+     },
+     "image": "🌷"
     }
    ]
   },
@@ -117,7 +123,8 @@
      "roman": "rekishi",
      "meaning": {
       "ko": "역사"
-     }
+     },
+     "image": "📜"
     }
    ]
   },
@@ -134,7 +141,8 @@
      "roman": "iro",
      "meaning": {
       "ko": "색"
-     }
+     },
+     "image": "🎨"
     }
    ]
   },
@@ -151,7 +159,8 @@
      "roman": "watashi",
      "meaning": {
       "ko": "나"
-     }
+     },
+     "image": "🙋"
     }
    ]
   },
@@ -185,14 +194,16 @@
      "roman": "hon",
      "meaning": {
       "ko": "책"
-     }
+     },
+     "image": "📕"
     },
     {
      "text": "さんぽ",
      "roman": "sanpo",
      "meaning": {
       "ko": "산책"
-     }
+     },
+     "image": "🚶"
     }
    ]
   }

@@ -8,70 +8,80 @@
    "roman": "yennare chakan namukkuni sarasseoyo.",
    "meaning": {
     "en": "Long ago, there lived a kind woodcutter."
-   }
+   },
+   "image": "🏡🧑‍🌾"
   },
   {
    "text": "어느 날, 나무꾼은 연못 옆에서 나무를 했어요.",
    "roman": "eoneu nal, namukkuneun yeonmot yeopeseo namureul haesseoyo.",
    "meaning": {
     "en": "One day, the woodcutter was chopping wood beside a pond."
-   }
+   },
+   "image": "🌳🪓🌊"
   },
   {
    "text": "그런데 도끼가 연못에 빠졌어요.",
    "roman": "geureonde dokkiga yeonmose ppajyeosseoyo.",
    "meaning": {
     "en": "But his axe fell into the pond."
-   }
+   },
+   "image": "🪓💦"
   },
   {
    "text": "나무꾼은 울었어요. \"내 도끼! 어떡해요?\"",
    "roman": "namukkuneun ureosseoyo. \"nae dokki! eotteokaeyo?\"",
    "meaning": {
     "en": "The woodcutter cried. \"My axe! What do I do?\""
-   }
+   },
+   "image": "😢"
   },
   {
    "text": "그때 산신령이 나타났어요.",
    "roman": "geuttae sansillyeongi natanasseoyo.",
    "meaning": {
     "en": "Just then, the mountain spirit appeared."
-   }
+   },
+   "image": "✨🧙✨"
   },
   {
    "text": "\"이 금도끼가 네 도끼냐?\"",
    "roman": "\"i geumdokkiga ne dokkinya?\"",
    "meaning": {
     "en": "\"Is this golden axe yours?\""
-   }
+   },
+   "image": "🥇🪓"
   },
   {
    "text": "\"아니요, 제 도끼가 아니에요.\"",
    "roman": "\"aniyo, je dokkiga anieyo.\"",
    "meaning": {
     "en": "\"No, it is not my axe.\""
-   }
+   },
+   "image": "🙅"
   },
   {
    "text": "\"그럼 이 은도끼가 네 도끼냐?\"",
    "roman": "\"geureom i eundokkiga ne dokkinya?\"",
    "meaning": {
     "en": "\"Then is this silver axe yours?\""
-   }
+   },
+   "image": "🥈🪓"
   },
   {
    "text": "\"아니요. 제 도끼는 낡은 쇠도끼예요.\"",
    "roman": "\"aniyo. je dokkineun nalgeun soedokkiyeyo.\"",
    "meaning": {
     "en": "\"No. Mine is an old iron axe.\""
-   }
+   },
+   "image": "🪓"
   },
   {
    "text": "산신령은 웃었어요. \"너는 정직하구나. 세 도끼를 모두 가져라.\"",
    "roman": "sansillyeongeun useosseoyo. \"neoneun jeongjikaguna. se dokkireul modu gajyeora.\"",
    "meaning": {
     "en": "The spirit smiled. \"You are honest. Take all three axes.\""
-   }
+   },
+   "image": "😊🥇🥈🪓"
   }
  ],
  "glossary": [
@@ -81,7 +91,8 @@
    "roman": "namukkun",
    "meaning": {
     "en": "woodcutter"
-   }
+   },
+   "image": "🧑‍🌾"
   },
   {
    "id": "ko.story-golden-axe.dokki",
@@ -89,7 +100,8 @@
    "roman": "dokki",
    "meaning": {
     "en": "axe"
-   }
+   },
+   "image": "🪓"
   },
   {
    "id": "ko.story-golden-axe.yeonmot",
@@ -97,7 +109,8 @@
    "roman": "yeonmot",
    "meaning": {
     "en": "pond"
-   }
+   },
+   "image": "🌊"
   },
   {
    "id": "ko.story-golden-axe.ppajida",
@@ -105,7 +118,8 @@
    "roman": "ppajida",
    "meaning": {
     "en": "to fall into (water)"
-   }
+   },
+   "image": "💦"
   },
   {
    "id": "ko.story-golden-axe.geum",
@@ -113,7 +127,8 @@
    "roman": "geum",
    "meaning": {
     "en": "gold"
-   }
+   },
+   "image": "🥇"
   },
   {
    "id": "ko.story-golden-axe.eun",
@@ -121,7 +136,8 @@
    "roman": "eun",
    "meaning": {
     "en": "silver"
-   }
+   },
+   "image": "🥈"
   },
   {
    "id": "ko.story-golden-axe.jeongjikada",
@@ -129,7 +145,8 @@
    "roman": "jeongjikada",
    "meaning": {
     "en": "to be honest"
-   }
+   },
+   "image": "😇"
   }
  ]
 }

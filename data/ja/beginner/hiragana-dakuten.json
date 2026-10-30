@@ -1,6 +1,10 @@
 {
  "id": "hiragana-dakuten",
  "type": "letters",
+ "intro": {
+  "ko": "지금까지 배운 글자에 점 두 개나 동그라미를 붙이면 새 소리가 돼요."
+ },
+ "figure": "dakuten",
  "items": [
   {
    "id": "ja.hiragana-dakuten.ga",
@@ -15,7 +19,8 @@
      "roman": "kagami",
      "meaning": {
       "ko": "거울"
-     }
+     },
+     "image": "🪞"
     }
    ]
   },
@@ -32,7 +37,8 @@
      "roman": "kagi",
      "meaning": {
       "ko": "열쇠"
-     }
+     },
+     "image": "🔑"
     }
    ]
   },
@@ -49,7 +55,8 @@
      "roman": "kagu",
      "meaning": {
       "ko": "가구"
-     }
+     },
+     "image": "🛋️"
     }
    ]
   },
@@ -66,7 +73,8 @@
      "roman": "geta",
      "meaning": {
       "ko": "나막신"
-     }
+     },
+     "image": "👡"
     }
    ]
   },
@@ -83,7 +91,8 @@
      "roman": "gogo",
      "meaning": {
       "ko": "오후"
-     }
+     },
+     "image": "🌇"
     }
    ]
   },
@@ -100,7 +109,8 @@
      "roman": "zaru",
      "meaning": {
       "ko": "소쿠리"
-     }
+     },
+     "image": "🧺"
     }
    ]
   },
@@ -117,7 +127,8 @@
      "roman": "jikan",
      "meaning": {
       "ko": "시간"
-     }
+     },
+     "image": "⏳"
     }
    ]
   },
@@ -134,7 +145,8 @@
      "roman": "chizu",
      "meaning": {
       "ko": "지도"
-     }
+     },
+     "image": "🗺️"
     }
    ]
   },
@@ -151,7 +163,8 @@
      "roman": "kaze",
      "meaning": {
       "ko": "바람; 감기"
-     }
+     },
+     "image": "🌬️"
     }
    ]
   },
@@ -168,7 +181,8 @@
      "roman": "zō",
      "meaning": {
       "ko": "코끼리"
-     }
+     },
+     "image": "🐘"
     }
    ]
   },
@@ -185,7 +199,8 @@
      "roman": "daigaku",
      "meaning": {
       "ko": "대학"
-     }
+     },
+     "image": "🎓"
     }
    ]
   },
@@ -236,7 +251,8 @@
      "roman": "denwa",
      "meaning": {
       "ko": "전화"
-     }
+     },
+     "image": "📞"
     }
    ]
   },
@@ -253,7 +269,8 @@
      "roman": "doko",
      "meaning": {
       "ko": "어디"
-     }
+     },
+     "image": "❓"
     }
    ]
   },
@@ -270,7 +287,8 @@
      "roman": "bara",
      "meaning": {
       "ko": "장미"
-     }
+     },
+     "image": "🌹"
     }
    ]
   },
@@ -287,7 +305,8 @@
      "roman": "ebi",
      "meaning": {
       "ko": "새우"
-     }
+     },
+     "image": "🦐"
     }
    ]
   },
@@ -304,7 +323,8 @@
      "roman": "buta",
      "meaning": {
       "ko": "돼지"
-     }
+     },
+     "image": "🐖"
     }
    ]
   },
@@ -321,7 +341,8 @@
      "roman": "bentō",
      "meaning": {
       "ko": "도시락"
-     }
+     },
+     "image": "🍱"
     }
    ]
   },
@@ -338,7 +359,8 @@
      "roman": "bōshi",
      "meaning": {
       "ko": "모자"
-     }
+     },
+     "image": "🧢"
     }
    ]
   },
@@ -355,7 +377,8 @@
      "roman": "pan",
      "meaning": {
       "ko": "빵"
-     }
+     },
+     "image": "🍞"
     }
    ]
   },
@@ -372,7 +395,8 @@
      "roman": "pikapika",
      "meaning": {
       "ko": "반짝반짝"
-     }
+     },
+     "image": "✨"
     }
    ]
   },
@@ -389,7 +413,8 @@
      "roman": "tenpura",
      "meaning": {
       "ko": "튀김"
-     }
+     },
+     "image": "🍤"
     }
    ]
   },
@@ -406,7 +431,8 @@
      "roman": "pekopeko",
      "meaning": {
       "ko": "배가 몹시 고픈 모양"
-     }
+     },
+     "image": "😫"
     }
    ]
   },
@@ -423,7 +449,8 @@
      "roman": "sanpo",
      "meaning": {
       "ko": "산책"
-     }
+     },
+     "image": "🚶"
     }
    ]
   }

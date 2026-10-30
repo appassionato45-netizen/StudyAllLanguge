@@ -8,7 +8,8 @@
    "roman": "bap",
    "meaning": {
     "en": "cooked rice; meal"
-   }
+   },
+   "image": "🍚"
   },
   {
    "id": "ko.food.mul",
@@ -23,7 +24,8 @@
     "meaning": {
      "en": "Water, please."
     }
-   }
+   },
+   "image": "💧"
   },
   {
    "id": "ko.food.gimchi",
@@ -31,7 +33,8 @@
    "roman": "gimchi",
    "meaning": {
     "en": "kimchi"
-   }
+   },
+   "image": "🥬"
   },
   {
    "id": "ko.food.gogi",
@@ -39,7 +42,8 @@
    "roman": "gogi",
    "meaning": {
     "en": "meat"
-   }
+   },
+   "image": "🥩"
   },
   {
    "id": "ko.food.ppang",
@@ -47,7 +51,8 @@
    "roman": "ppang",
    "meaning": {
     "en": "bread"
-   }
+   },
+   "image": "🍞"
   },
   {
    "id": "ko.food.gwail",
@@ -55,7 +60,8 @@
    "roman": "gwail",
    "meaning": {
     "en": "fruit"
-   }
+   },
+   "image": "🍎"
   },
   {
    "id": "ko.food.keopi",
@@ -63,7 +69,8 @@
    "roman": "keopi",
    "meaning": {
     "en": "coffee"
-   }
+   },
+   "image": "☕"
   },
   {
    "id": "ko.food.uyu",
@@ -71,7 +78,8 @@
    "roman": "uyu",
    "meaning": {
     "en": "milk"
-   }
+   },
+   "image": "🥛"
   },
   {
    "id": "ko.food.juseyo",
@@ -86,7 +94,8 @@
     "meaning": {
      "en": "Coffee, please."
     }
-   }
+   },
+   "image": "🤲"
   },
   {
    "id": "ko.food.masisseoyo",
@@ -101,7 +110,8 @@
     "meaning": {
      "en": "This kimchi is delicious."
     }
-   }
+   },
+   "image": "😋"
   }
  ]
 }
