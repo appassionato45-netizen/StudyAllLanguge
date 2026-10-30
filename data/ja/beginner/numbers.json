@@ -1,0 +1,116 @@
+{
+ "id": "numbers",
+ "type": "vocab",
+ "items": [
+  {
+   "id": "ja.numbers.1",
+   "text": "いち",
+   "roman": "ichi",
+   "meaning": {
+    "ko": "1"
+   }
+  },
+  {
+   "id": "ja.numbers.2",
+   "text": "に",
+   "roman": "ni",
+   "meaning": {
+    "ko": "2"
+   }
+  },
+  {
+   "id": "ja.numbers.3",
+   "text": "さん",
+   "roman": "san",
+   "meaning": {
+    "ko": "3"
+   }
+  },
+  {
+   "id": "ja.numbers.4",
+   "text": "よん",
+   "roman": "yon",
+   "meaning": {
+    "ko": "4 (し shi라고도 하지만 死와 발음이 같아 よん을 더 많이 써요)"
+   }
+  },
+  {
+   "id": "ja.numbers.5",
+   "text": "ご",
+   "roman": "go",
+   "meaning": {
+    "ko": "5"
+   }
+  },
+  {
+   "id": "ja.numbers.6",
+   "text": "ろく",
+   "roman": "roku",
+   "meaning": {
+    "ko": "6"
+   }
+  },
+  {
+   "id": "ja.numbers.7",
+   "text": "なな",
+   "roman": "nana",
+   "meaning": {
+    "ko": "7 (しち shichi라고도 해요)"
+   }
+  },
+  {
+   "id": "ja.numbers.8",
+   "text": "はち",
+   "roman": "hachi",
+   "meaning": {
+    "ko": "8"
+   }
+  },
+  {
+   "id": "ja.numbers.9",
+   "text": "きゅう",
+   "roman": "kyū",
+   "meaning": {
+    "ko": "9 (く ku라고도 해요)"
+   }
+  },
+  {
+   "id": "ja.numbers.10",
+   "text": "じゅう",
+   "roman": "jū",
+   "meaning": {
+    "ko": "10"
+   },
+   "example": {
+    "text": "じゅうご",
+    "roman": "jūgo",
+    "meaning": {
+     "ko": "15"
+    }
+   }
+  },
+  {
+   "id": "ja.numbers.100",
+   "text": "ひゃく",
+   "roman": "hyaku",
+   "meaning": {
+    "ko": "100"
+   }
+  },
+  {
+   "id": "ja.numbers.1000",
+   "text": "せん",
+   "roman": "sen",
+   "meaning": {
+    "ko": "1000"
+   },
+   "example": {
+    "text": "せんえん",
+    "roman": "sen en",
+    "meaning": {
+     "ko": "천 엔"
+    }
+   }
+  }
+ ]
+}

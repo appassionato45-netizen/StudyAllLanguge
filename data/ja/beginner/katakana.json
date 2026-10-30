@@ -1,0 +1,788 @@
+{
+ "id": "katakana",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ja.katakana.a",
+   "char": "ア",
+   "roman": "a",
+   "note": {
+    "ko": "히라가나 あ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "アイス",
+     "roman": "aisu",
+     "meaning": {
+      "ko": "아이스크림"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.i",
+   "char": "イ",
+   "roman": "i",
+   "note": {
+    "ko": "히라가나 い와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "インク",
+     "roman": "inku",
+     "meaning": {
+      "ko": "잉크"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.u",
+   "char": "ウ",
+   "roman": "u",
+   "note": {
+    "ko": "히라가나 う와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ウイルス",
+     "roman": "uirusu",
+     "meaning": {
+      "ko": "바이러스"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.e",
+   "char": "エ",
+   "roman": "e",
+   "note": {
+    "ko": "히라가나 え와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "エアコン",
+     "roman": "eakon",
+     "meaning": {
+      "ko": "에어컨"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.o",
+   "char": "オ",
+   "roman": "o",
+   "note": {
+    "ko": "히라가나 お와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "オレンジ",
+     "roman": "orenji",
+     "meaning": {
+      "ko": "오렌지"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ka",
+   "char": "カ",
+   "roman": "ka",
+   "note": {
+    "ko": "히라가나 か와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "カメラ",
+     "roman": "kamera",
+     "meaning": {
+      "ko": "카메라"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ki",
+   "char": "キ",
+   "roman": "ki",
+   "note": {
+    "ko": "히라가나 き와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "キロ",
+     "roman": "kiro",
+     "meaning": {
+      "ko": "킬로"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ku",
+   "char": "ク",
+   "roman": "ku",
+   "note": {
+    "ko": "히라가나 く와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "クラス",
+     "roman": "kurasu",
+     "meaning": {
+      "ko": "반, 클래스"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ke",
+   "char": "ケ",
+   "roman": "ke",
+   "note": {
+    "ko": "히라가나 け와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ケーキ",
+     "roman": "kēki",
+     "meaning": {
+      "ko": "케이크"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ko",
+   "char": "コ",
+   "roman": "ko",
+   "note": {
+    "ko": "히라가나 こ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "コーヒー",
+     "roman": "kōhī",
+     "meaning": {
+      "ko": "커피"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.sa",
+   "char": "サ",
+   "roman": "sa",
+   "note": {
+    "ko": "히라가나 さ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "サラダ",
+     "roman": "sarada",
+     "meaning": {
+      "ko": "샐러드"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.shi",
+   "char": "シ",
+   "roman": "shi",
+   "note": {
+    "ko": "히라가나 し와 같은 소리예요. ツ와 헷갈리기 쉬워요. シ는 점이 왼쪽에 세로로 놓이고, 마지막 획이 아래에서 위로 올라가요."
+   },
+   "examples": [
+    {
+     "text": "シャツ",
+     "roman": "shatsu",
+     "meaning": {
+      "ko": "셔츠"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.su",
+   "char": "ス",
+   "roman": "su",
+   "note": {
+    "ko": "히라가나 す와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "スープ",
+     "roman": "sūpu",
+     "meaning": {
+      "ko": "수프"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.se",
+   "char": "セ",
+   "roman": "se",
+   "note": {
+    "ko": "히라가나 せ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "セーター",
+     "roman": "sētā",
+     "meaning": {
+      "ko": "스웨터"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.so",
+   "char": "ソ",
+   "roman": "so",
+   "note": {
+    "ko": "히라가나 そ와 같은 소리예요. ン과 헷갈리기 쉬워요. ソ의 긴 획은 위에서 아래로 내려와요."
+   },
+   "examples": [
+    {
+     "text": "ソファ",
+     "roman": "sofa",
+     "meaning": {
+      "ko": "소파"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ta",
+   "char": "タ",
+   "roman": "ta",
+   "note": {
+    "ko": "히라가나 た와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "タクシー",
+     "roman": "takushī",
+     "meaning": {
+      "ko": "택시"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.chi",
+   "char": "チ",
+   "roman": "chi",
+   "note": {
+    "ko": "히라가나 ち와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "チーズ",
+     "roman": "chīzu",
+     "meaning": {
+      "ko": "치즈"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.tsu",
+   "char": "ツ",
+   "roman": "tsu",
+   "note": {
+    "ko": "히라가나 つ와 같은 소리예요. シ와 헷갈리기 쉬워요. ツ는 점이 위에 가로로 놓이고, 마지막 획이 위에서 아래로 내려와요."
+   },
+   "examples": [
+    {
+     "text": "ツアー",
+     "roman": "tsuā",
+     "meaning": {
+      "ko": "투어"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.te",
+   "char": "テ",
+   "roman": "te",
+   "note": {
+    "ko": "히라가나 て와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "テレビ",
+     "roman": "terebi",
+     "meaning": {
+      "ko": "텔레비전"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.to",
+   "char": "ト",
+   "roman": "to",
+   "note": {
+    "ko": "히라가나 と와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "トマト",
+     "roman": "tomato",
+     "meaning": {
+      "ko": "토마토"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.na",
+   "char": "ナ",
+   "roman": "na",
+   "note": {
+    "ko": "히라가나 な와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ナイフ",
+     "roman": "naifu",
+     "meaning": {
+      "ko": "나이프"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ni",
+   "char": "ニ",
+   "roman": "ni",
+   "note": {
+    "ko": "히라가나 に와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ニュース",
+     "roman": "nyūsu",
+     "meaning": {
+      "ko": "뉴스"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.nu",
+   "char": "ヌ",
+   "roman": "nu",
+   "note": {
+    "ko": "히라가나 ぬ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ヌードル",
+     "roman": "nūdoru",
+     "meaning": {
+      "ko": "누들, 면"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ne",
+   "char": "ネ",
+   "roman": "ne",
+   "note": {
+    "ko": "히라가나 ね와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ネクタイ",
+     "roman": "nekutai",
+     "meaning": {
+      "ko": "넥타이"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.no",
+   "char": "ノ",
+   "roman": "no",
+   "note": {
+    "ko": "히라가나 の와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ノート",
+     "roman": "nōto",
+     "meaning": {
+      "ko": "공책"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ha",
+   "char": "ハ",
+   "roman": "ha",
+   "note": {
+    "ko": "히라가나 は와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ハンバーガー",
+     "roman": "hanbāgā",
+     "meaning": {
+      "ko": "햄버거"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.hi",
+   "char": "ヒ",
+   "roman": "hi",
+   "note": {
+    "ko": "히라가나 ひ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ヒーター",
+     "roman": "hītā",
+     "meaning": {
+      "ko": "히터"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.fu",
+   "char": "フ",
+   "roman": "fu",
+   "note": {
+    "ko": "히라가나 ふ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "フォーク",
+     "roman": "fōku",
+     "meaning": {
+      "ko": "포크"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.he",
+   "char": "ヘ",
+   "roman": "he",
+   "note": {
+    "ko": "히라가나 へ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ヘリコプター",
+     "roman": "herikoputā",
+     "meaning": {
+      "ko": "헬리콥터"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ho",
+   "char": "ホ",
+   "roman": "ho",
+   "note": {
+    "ko": "히라가나 ほ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ホテル",
+     "roman": "hoteru",
+     "meaning": {
+      "ko": "호텔"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ma",
+   "char": "マ",
+   "roman": "ma",
+   "note": {
+    "ko": "히라가나 ま와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "マスク",
+     "roman": "masuku",
+     "meaning": {
+      "ko": "마스크"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.mi",
+   "char": "ミ",
+   "roman": "mi",
+   "note": {
+    "ko": "히라가나 み와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ミルク",
+     "roman": "miruku",
+     "meaning": {
+      "ko": "우유"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.mu",
+   "char": "ム",
+   "roman": "mu",
+   "note": {
+    "ko": "히라가나 む와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ゲーム",
+     "roman": "gēmu",
+     "meaning": {
+      "ko": "게임"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.me",
+   "char": "メ",
+   "roman": "me",
+   "note": {
+    "ko": "히라가나 め와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "メール",
+     "roman": "mēru",
+     "meaning": {
+      "ko": "메일"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.mo",
+   "char": "モ",
+   "roman": "mo",
+   "note": {
+    "ko": "히라가나 も와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "モデル",
+     "roman": "moderu",
+     "meaning": {
+      "ko": "모델"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ya",
+   "char": "ヤ",
+   "roman": "ya",
+   "note": {
+    "ko": "히라가나 や와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "タイヤ",
+     "roman": "taiya",
+     "meaning": {
+      "ko": "타이어"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.yu",
+   "char": "ユ",
+   "roman": "yu",
+   "note": {
+    "ko": "히라가나 ゆ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ユーモア",
+     "roman": "yūmoa",
+     "meaning": {
+      "ko": "유머"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.yo",
+   "char": "ヨ",
+   "roman": "yo",
+   "note": {
+    "ko": "히라가나 よ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ヨーグルト",
+     "roman": "yōguruto",
+     "meaning": {
+      "ko": "요구르트"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ra",
+   "char": "ラ",
+   "roman": "ra",
+   "note": {
+    "ko": "히라가나 ら와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ラジオ",
+     "roman": "rajio",
+     "meaning": {
+      "ko": "라디오"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ri",
+   "char": "リ",
+   "roman": "ri",
+   "note": {
+    "ko": "히라가나 り와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "リモコン",
+     "roman": "rimokon",
+     "meaning": {
+      "ko": "리모컨"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ru",
+   "char": "ル",
+   "roman": "ru",
+   "note": {
+    "ko": "히라가나 る와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ルール",
+     "roman": "rūru",
+     "meaning": {
+      "ko": "규칙"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.re",
+   "char": "レ",
+   "roman": "re",
+   "note": {
+    "ko": "히라가나 れ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "レモン",
+     "roman": "remon",
+     "meaning": {
+      "ko": "레몬"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.ro",
+   "char": "ロ",
+   "roman": "ro",
+   "note": {
+    "ko": "히라가나 ろ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ロボット",
+     "roman": "robotto",
+     "meaning": {
+      "ko": "로봇"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.wa",
+   "char": "ワ",
+   "roman": "wa",
+   "note": {
+    "ko": "히라가나 わ와 같은 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ワイン",
+     "roman": "wain",
+     "meaning": {
+      "ko": "와인"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.n",
+   "char": "ン",
+   "roman": "n",
+   "note": {
+    "ko": "히라가나 ん와 같은 소리예요. ソ와 헷갈리기 쉬워요. ン의 긴 획은 아래에서 위로 올라가요."
+   },
+   "examples": [
+    {
+     "text": "パン",
+     "roman": "pan",
+     "meaning": {
+      "ko": "빵"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.katakana.long",
+   "char": "ー",
+   "roman": "(장음)",
+   "note": {
+    "ko": "가타카나에서 앞 모음을 한 박자 길게 늘이는 기호예요."
+   },
+   "examples": [
+    {
+     "text": "コーヒー",
+     "roman": "kōhī",
+     "meaning": {
+      "ko": "커피"
+     }
+    }
+   ]
+  }
+ ]
+}
