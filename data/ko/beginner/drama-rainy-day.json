@@ -1,0 +1,54 @@
+{
+ "id": "drama-rainy-day",
+ "type": "dialogue",
+ "items": [
+  {
+   "speaker": "지수",
+   "text": "어? 비가 와요.",
+   "roman": "eo? biga wayo.",
+   "meaning": {
+    "en": "Huh? It's raining."
+   }
+  },
+  {
+   "speaker": "준호",
+   "text": "우산 없어요?",
+   "roman": "usan eopseoyo?",
+   "meaning": {
+    "en": "Don't you have an umbrella?"
+   }
+  },
+  {
+   "speaker": "지수",
+   "text": "네... 오늘 아침에 안 가져왔어요.",
+   "roman": "ne... oneul achime an gajyeowasseoyo.",
+   "meaning": {
+    "en": "No... I didn't bring one this morning. (네 agrees with the question \"you don't have one?\", so it means \"right, I don't.\")"
+   }
+  },
+  {
+   "speaker": "준호",
+   "text": "그럼 같이 써요.",
+   "roman": "geureom gachi sseoyo.",
+   "meaning": {
+    "en": "Then let's share mine."
+   }
+  },
+  {
+   "speaker": "지수",
+   "text": "정말요? 고마워요.",
+   "roman": "jeongmallyo? gomawoyo.",
+   "meaning": {
+    "en": "Really? Thank you."
+   }
+  },
+  {
+   "speaker": "준호",
+   "text": "집이 어디예요? 데려다줄게요.",
+   "roman": "jibi eodiyeyo? deryeodajulgeyo.",
+   "meaning": {
+    "en": "Where do you live? I'll walk you home."
+   }
+  }
+ ]
+}

@@ -119,6 +119,14 @@
                 "en": "Conversation: at a café",
                 "ko": "회화: 카페에서"
               }
+            },
+            {
+              "id": "drama-rainy-day",
+              "type": "dialogue",
+              "title": {
+                "en": "Drama scene: sharing an umbrella",
+                "ko": "드라마 장면: 우산 같이 쓰기"
+              }
             }
           ]
         },
@@ -128,7 +136,24 @@
             "en": "Intermediate",
             "ko": "중급"
           },
-          "units": []
+          "units": [
+            {
+              "id": "story-golden-axe",
+              "type": "story",
+              "title": {
+                "en": "Story: the golden axe",
+                "ko": "동화: 금도끼 은도끼"
+              }
+            },
+            {
+              "id": "story-rabbit-turtle",
+              "type": "story",
+              "title": {
+                "en": "Story: the rabbit and the turtle",
+                "ko": "동화: 토끼와 거북이"
+              }
+            }
+          ]
         },
         {
           "id": "advanced",
@@ -235,6 +260,14 @@
                 "en": "Conversation: first meeting",
                 "ko": "회화: 첫 만남"
               }
+            },
+            {
+              "id": "drama-convenience-store",
+              "type": "dialogue",
+              "title": {
+                "en": "Drama scene: at a convenience store",
+                "ko": "드라마 장면: 편의점에서"
+              }
             }
           ]
         },
@@ -244,7 +277,24 @@
             "en": "Intermediate",
             "ko": "중급"
           },
-          "units": []
+          "units": [
+            {
+              "id": "story-rabbit-turtle",
+              "type": "story",
+              "title": {
+                "en": "Story: the rabbit and the turtle",
+                "ko": "동화: 토끼와 거북이"
+              }
+            },
+            {
+              "id": "story-north-wind-sun",
+              "type": "story",
+              "title": {
+                "en": "Story: the north wind and the sun",
+                "ko": "동화: 북풍과 해"
+              }
+            }
+          ]
         },
         {
           "id": "advanced",

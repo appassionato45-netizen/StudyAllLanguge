@@ -124,6 +124,7 @@ function readerView(data, c) {
         h('div', { lang: c.target }, line.text, speakButton(line.text, c.target)),
         h('div', { class: 'roman muted' }, line.roman),
         h('div', { class: 'meaning' }, pick(line.meaning, c.explain))))));
+  if (data.glossary?.length) root.append(h('h2', {}, t('glossary')), vocabView({ items: data.glossary }, c));
   if (data.source) root.append(h('p', { class: 'muted' }, data.source));
   return root;
 }
