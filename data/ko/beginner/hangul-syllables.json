@@ -1,0 +1,108 @@
+{
+ "id": "hangul-syllables",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ko.hangul-syllables.ga",
+   "char": "가",
+   "roman": "ga",
+   "note": {
+    "en": "Every syllable is a block. Consonant + vertical vowel (ㅏ ㅓ ㅣ...) sit side by side: ㄱ + ㅏ = 가."
+   },
+   "examples": [
+    {
+     "text": "가구",
+     "roman": "gagu",
+     "meaning": {
+      "en": "furniture"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-syllables.go",
+   "char": "고",
+   "roman": "go",
+   "note": {
+    "en": "With a horizontal vowel (ㅗ ㅜ ㅡ...) the consonant sits on top: ㄱ + ㅗ = 고."
+   },
+   "examples": [
+    {
+     "text": "고기",
+     "roman": "gogi",
+     "meaning": {
+      "en": "meat"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-syllables.a",
+   "char": "아",
+   "roman": "a",
+   "note": {
+    "en": "A syllable must start with a consonant. If it starts with a vowel sound, the silent ㅇ fills the slot: ㅇ + ㅏ = 아."
+   },
+   "examples": [
+    {
+     "text": "아기",
+     "roman": "agi",
+     "meaning": {
+      "en": "baby"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-syllables.han",
+   "char": "한",
+   "roman": "han",
+   "note": {
+    "en": "A final consonant (batchim) goes at the bottom: ㅎ + ㅏ + ㄴ = 한."
+   },
+   "examples": [
+    {
+     "text": "한국",
+     "roman": "hanguk",
+     "meaning": {
+      "en": "Korea"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-syllables.geul",
+   "char": "글",
+   "roman": "geul",
+   "note": {
+    "en": "Batchim under a horizontal vowel: ㄱ + ㅡ + ㄹ = 글."
+   },
+   "examples": [
+    {
+     "text": "한글",
+     "roman": "hangeul",
+     "meaning": {
+      "en": "the Korean alphabet"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-syllables.gwa",
+   "char": "과",
+   "roman": "gwa",
+   "note": {
+    "en": "Compound vowels wrap around the consonant: ㄱ + ㅘ = 과."
+   },
+   "examples": [
+    {
+     "text": "과자",
+     "roman": "gwaja",
+     "meaning": {
+      "en": "snack; cookie"
+     }
+    }
+   ]
+  }
+ ]
+}

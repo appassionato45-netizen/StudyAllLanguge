@@ -1,0 +1,62 @@
+{
+ "id": "at-the-cafe",
+ "type": "dialogue",
+ "items": [
+  {
+   "speaker": "A",
+   "text": "어서 오세요.",
+   "roman": "eoseo oseyo.",
+   "meaning": {
+    "en": "Welcome."
+   }
+  },
+  {
+   "speaker": "B",
+   "text": "아메리카노 한 잔 주세요.",
+   "roman": "amerikano han jan juseyo.",
+   "meaning": {
+    "en": "One americano, please."
+   }
+  },
+  {
+   "speaker": "A",
+   "text": "따뜻한 거요, 아이스요?",
+   "roman": "ttatteutan geoyo, aiseuyo?",
+   "meaning": {
+    "en": "Hot or iced?"
+   }
+  },
+  {
+   "speaker": "B",
+   "text": "아이스로 주세요.",
+   "roman": "aiseuro juseyo.",
+   "meaning": {
+    "en": "Iced, please."
+   }
+  },
+  {
+   "speaker": "A",
+   "text": "사천오백 원입니다.",
+   "roman": "sacheon-obaek wonimnida.",
+   "meaning": {
+    "en": "That will be 4,500 won."
+   }
+  },
+  {
+   "speaker": "B",
+   "text": "여기요.",
+   "roman": "yeogiyo.",
+   "meaning": {
+    "en": "Here you go."
+   }
+  },
+  {
+   "speaker": "A",
+   "text": "감사합니다.",
+   "roman": "gamsahamnida.",
+   "meaning": {
+    "en": "Thank you."
+   }
+  }
+ ]
+}

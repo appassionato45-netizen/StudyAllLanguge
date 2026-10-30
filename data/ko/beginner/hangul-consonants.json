@@ -1,0 +1,258 @@
+{
+ "id": "hangul-consonants",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ko.hangul-consonants.g",
+   "char": "ㄱ",
+   "roman": "g / k",
+   "note": {
+    "en": "Between 'g' and 'k'. Sounds like 'k' at the end of a syllable. Its shape shows the tongue touching the back of the mouth."
+   },
+   "examples": [
+    {
+     "text": "가방",
+     "roman": "gabang",
+     "meaning": {
+      "en": "bag"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.n",
+   "char": "ㄴ",
+   "roman": "n",
+   "note": {
+    "en": "Like 'n'. Its shape shows the tongue tip touching behind the teeth."
+   },
+   "examples": [
+    {
+     "text": "나무",
+     "roman": "namu",
+     "meaning": {
+      "en": "tree"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.d",
+   "char": "ㄷ",
+   "roman": "d / t",
+   "note": {
+    "en": "Between 'd' and 't'. Sounds like 't' at the end of a syllable."
+   },
+   "examples": [
+    {
+     "text": "다리",
+     "roman": "dari",
+     "meaning": {
+      "en": "leg; bridge"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.r",
+   "char": "ㄹ",
+   "roman": "r / l",
+   "note": {
+    "en": "A light tap like the 'tt' in American 'butter' between vowels; like 'l' at the end of a syllable."
+   },
+   "examples": [
+    {
+     "text": "라면",
+     "roman": "ramyeon",
+     "meaning": {
+      "en": "instant noodles"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.m",
+   "char": "ㅁ",
+   "roman": "m",
+   "note": {
+    "en": "Like 'm'. Its square shape is the closed mouth."
+   },
+   "examples": [
+    {
+     "text": "머리",
+     "roman": "meori",
+     "meaning": {
+      "en": "head; hair"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.b",
+   "char": "ㅂ",
+   "roman": "b / p",
+   "note": {
+    "en": "Between 'b' and 'p'. Sounds like 'p' at the end of a syllable."
+   },
+   "examples": [
+    {
+     "text": "바다",
+     "roman": "bada",
+     "meaning": {
+      "en": "sea"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.s",
+   "char": "ㅅ",
+   "roman": "s",
+   "note": {
+    "en": "Like 's'. Before ㅣ and y-vowels it sounds like 'sh'."
+   },
+   "examples": [
+    {
+     "text": "사과",
+     "roman": "sagwa",
+     "meaning": {
+      "en": "apple"
+     }
+    },
+    {
+     "text": "시",
+     "roman": "si",
+     "meaning": {
+      "en": "o'clock; poem (sounds like \"shee\")"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.ng",
+   "char": "ㅇ",
+   "roman": "(silent) / ng",
+   "note": {
+    "en": "Silent at the start of a syllable, where it only fills the empty consonant slot. Like 'ng' in sing at the end."
+   },
+   "examples": [
+    {
+     "text": "아이",
+     "roman": "a-i",
+     "meaning": {
+      "en": "child"
+     }
+    },
+    {
+     "text": "강",
+     "roman": "gang",
+     "meaning": {
+      "en": "river"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.j",
+   "char": "ㅈ",
+   "roman": "j",
+   "note": {
+    "en": "Like 'j' in jam, but softer."
+   },
+   "examples": [
+    {
+     "text": "지도",
+     "roman": "jido",
+     "meaning": {
+      "en": "map"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.ch",
+   "char": "ㅊ",
+   "roman": "ch",
+   "note": {
+    "en": "Like ㅈ with a strong puff of air: 'ch' in church."
+   },
+   "examples": [
+    {
+     "text": "차",
+     "roman": "cha",
+     "meaning": {
+      "en": "car; tea"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.k",
+   "char": "ㅋ",
+   "roman": "k",
+   "note": {
+    "en": "Like ㄱ with a strong puff of air: 'k' in kite."
+   },
+   "examples": [
+    {
+     "text": "코",
+     "roman": "ko",
+     "meaning": {
+      "en": "nose"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.t",
+   "char": "ㅌ",
+   "roman": "t",
+   "note": {
+    "en": "Like ㄷ with a strong puff of air: 't' in top."
+   },
+   "examples": [
+    {
+     "text": "토마토",
+     "roman": "tomato",
+     "meaning": {
+      "en": "tomato"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.p",
+   "char": "ㅍ",
+   "roman": "p",
+   "note": {
+    "en": "Like ㅂ with a strong puff of air: 'p' in pie."
+   },
+   "examples": [
+    {
+     "text": "포도",
+     "roman": "podo",
+     "meaning": {
+      "en": "grapes"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ko.hangul-consonants.h",
+   "char": "ㅎ",
+   "roman": "h",
+   "note": {
+    "en": "Like 'h'."
+   },
+   "examples": [
+    {
+     "text": "하나",
+     "roman": "hana",
+     "meaning": {
+      "en": "one"
+     }
+    }
+   ]
+  }
+ ]
+}

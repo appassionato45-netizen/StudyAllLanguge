@@ -1,0 +1,100 @@
+{
+ "id": "numbers-native",
+ "type": "vocab",
+ "items": [
+  {
+   "id": "ko.numbers-native.1",
+   "text": "하나",
+   "roman": "hana",
+   "meaning": {
+    "en": "one (native Korean; 한 before a counter)"
+   },
+   "example": {
+    "text": "한 개",
+    "roman": "han gae",
+    "meaning": {
+     "en": "one item"
+    }
+   }
+  },
+  {
+   "id": "ko.numbers-native.2",
+   "text": "둘",
+   "roman": "dul",
+   "meaning": {
+    "en": "two (native Korean; 두 before a counter)"
+   },
+   "example": {
+    "text": "두 잔",
+    "roman": "du jan",
+    "meaning": {
+     "en": "two cups"
+    }
+   }
+  },
+  {
+   "id": "ko.numbers-native.3",
+   "text": "셋",
+   "roman": "set",
+   "meaning": {
+    "en": "three (native Korean; 세 before a counter)"
+   }
+  },
+  {
+   "id": "ko.numbers-native.4",
+   "text": "넷",
+   "roman": "net",
+   "meaning": {
+    "en": "four (native Korean; 네 before a counter)"
+   }
+  },
+  {
+   "id": "ko.numbers-native.5",
+   "text": "다섯",
+   "roman": "daseot",
+   "meaning": {
+    "en": "five (native Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-native.6",
+   "text": "여섯",
+   "roman": "yeoseot",
+   "meaning": {
+    "en": "six (native Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-native.7",
+   "text": "일곱",
+   "roman": "ilgop",
+   "meaning": {
+    "en": "seven (native Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-native.8",
+   "text": "여덟",
+   "roman": "yeodeol",
+   "meaning": {
+    "en": "eight (native Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-native.9",
+   "text": "아홉",
+   "roman": "ahop",
+   "meaning": {
+    "en": "nine (native Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-native.10",
+   "text": "열",
+   "roman": "yeol",
+   "meaning": {
+    "en": "ten (native Korean)"
+   }
+  }
+ ]
+}

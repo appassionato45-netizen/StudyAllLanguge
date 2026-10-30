@@ -1,0 +1,123 @@
+{
+ "id": "numbers-sino",
+ "type": "vocab",
+ "items": [
+  {
+   "id": "ko.numbers-sino.1",
+   "text": "일",
+   "roman": "il",
+   "meaning": {
+    "en": "one (Sino-Korean)"
+   },
+   "example": {
+    "text": "일월",
+    "roman": "irwol",
+    "meaning": {
+     "en": "January"
+    }
+   }
+  },
+  {
+   "id": "ko.numbers-sino.2",
+   "text": "이",
+   "roman": "i",
+   "meaning": {
+    "en": "two (Sino-Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-sino.3",
+   "text": "삼",
+   "roman": "sam",
+   "meaning": {
+    "en": "three (Sino-Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-sino.4",
+   "text": "사",
+   "roman": "sa",
+   "meaning": {
+    "en": "four (Sino-Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-sino.5",
+   "text": "오",
+   "roman": "o",
+   "meaning": {
+    "en": "five (Sino-Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-sino.6",
+   "text": "육",
+   "roman": "yuk",
+   "meaning": {
+    "en": "six (Sino-Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-sino.7",
+   "text": "칠",
+   "roman": "chil",
+   "meaning": {
+    "en": "seven (Sino-Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-sino.8",
+   "text": "팔",
+   "roman": "pal",
+   "meaning": {
+    "en": "eight (Sino-Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-sino.9",
+   "text": "구",
+   "roman": "gu",
+   "meaning": {
+    "en": "nine (Sino-Korean)"
+   }
+  },
+  {
+   "id": "ko.numbers-sino.10",
+   "text": "십",
+   "roman": "sip",
+   "meaning": {
+    "en": "ten (Sino-Korean)"
+   },
+   "example": {
+    "text": "십오",
+    "roman": "sibo",
+    "meaning": {
+     "en": "fifteen"
+    }
+   }
+  },
+  {
+   "id": "ko.numbers-sino.100",
+   "text": "백",
+   "roman": "baek",
+   "meaning": {
+    "en": "one hundred"
+   }
+  },
+  {
+   "id": "ko.numbers-sino.1000",
+   "text": "천",
+   "roman": "cheon",
+   "meaning": {
+    "en": "one thousand"
+   },
+   "example": {
+    "text": "천 원",
+    "roman": "cheon won",
+    "meaning": {
+     "en": "1,000 won"
+    }
+   }
+  }
+ ]
+}

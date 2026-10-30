@@ -4,36 +4,184 @@
       "id": "ko",
       "target": "ko",
       "explain": "en",
-      "title": { "en": "Learn Korean", "ko": "한국어 배우기" },
+      "title": {
+        "en": "Learn Korean",
+        "ko": "한국어 배우기"
+      },
       "levels": [
         {
           "id": "beginner",
-          "title": { "en": "Beginner", "ko": "초급" },
+          "title": {
+            "en": "Beginner",
+            "ko": "초급"
+          },
           "units": [
-            { "id": "hangul-vowels", "type": "letters", "title": { "en": "Hangul: basic vowels", "ko": "한글: 기본 모음" } },
-            { "id": "greetings", "type": "vocab", "title": { "en": "Greetings", "ko": "인사말" } },
-            { "id": "first-meeting", "type": "dialogue", "title": { "en": "Conversation: first meeting", "ko": "회화: 첫 만남" } }
+            {
+              "id": "hangul-vowels",
+              "type": "letters",
+              "title": {
+                "en": "Hangul: basic vowels",
+                "ko": "한글: 기본 모음"
+              }
+            },
+            {
+              "id": "hangul-consonants",
+              "type": "letters",
+              "title": {
+                "en": "Hangul: basic consonants",
+                "ko": "한글: 기본 자음"
+              }
+            },
+            {
+              "id": "hangul-double-consonants",
+              "type": "letters",
+              "title": {
+                "en": "Hangul: double consonants",
+                "ko": "한글: 쌍자음"
+              }
+            },
+            {
+              "id": "hangul-compound-vowels",
+              "type": "letters",
+              "title": {
+                "en": "Hangul: compound vowels",
+                "ko": "한글: 이중 모음"
+              }
+            },
+            {
+              "id": "hangul-syllables",
+              "type": "letters",
+              "title": {
+                "en": "Hangul: building syllables",
+                "ko": "한글: 음절 만들기"
+              }
+            },
+            {
+              "id": "hangul-batchim",
+              "type": "letters",
+              "title": {
+                "en": "Hangul: final consonants (batchim)",
+                "ko": "한글: 받침"
+              }
+            },
+            {
+              "id": "greetings",
+              "type": "vocab",
+              "title": {
+                "en": "Greetings",
+                "ko": "인사말"
+              }
+            },
+            {
+              "id": "numbers-sino",
+              "type": "vocab",
+              "title": {
+                "en": "Numbers: Sino-Korean",
+                "ko": "숫자: 한자어"
+              }
+            },
+            {
+              "id": "numbers-native",
+              "type": "vocab",
+              "title": {
+                "en": "Numbers: native Korean",
+                "ko": "숫자: 고유어"
+              }
+            },
+            {
+              "id": "family",
+              "type": "vocab",
+              "title": {
+                "en": "Family",
+                "ko": "가족"
+              }
+            },
+            {
+              "id": "food",
+              "type": "vocab",
+              "title": {
+                "en": "Food and drink",
+                "ko": "음식과 음료"
+              }
+            },
+            {
+              "id": "first-meeting",
+              "type": "dialogue",
+              "title": {
+                "en": "Conversation: first meeting",
+                "ko": "회화: 첫 만남"
+              }
+            },
+            {
+              "id": "at-the-cafe",
+              "type": "dialogue",
+              "title": {
+                "en": "Conversation: at a café",
+                "ko": "회화: 카페에서"
+              }
+            }
           ]
         },
-        { "id": "intermediate", "title": { "en": "Intermediate", "ko": "중급" }, "units": [] },
-        { "id": "advanced", "title": { "en": "Advanced", "ko": "고급" }, "units": [] }
+        {
+          "id": "intermediate",
+          "title": {
+            "en": "Intermediate",
+            "ko": "중급"
+          },
+          "units": []
+        },
+        {
+          "id": "advanced",
+          "title": {
+            "en": "Advanced",
+            "ko": "고급"
+          },
+          "units": []
+        }
       ]
     },
     {
       "id": "ja",
       "target": "ja",
       "explain": "ko",
-      "title": { "en": "Learn Japanese", "ko": "일본어 배우기" },
+      "title": {
+        "en": "Learn Japanese",
+        "ko": "일본어 배우기"
+      },
       "levels": [
         {
           "id": "beginner",
-          "title": { "en": "Beginner", "ko": "초급" },
+          "title": {
+            "en": "Beginner",
+            "ko": "초급"
+          },
           "units": [
-            { "id": "hiragana-a-row", "type": "letters", "title": { "en": "Hiragana: a-row", "ko": "히라가나: あ행" } }
+            {
+              "id": "hiragana-a-row",
+              "type": "letters",
+              "title": {
+                "en": "Hiragana: a-row",
+                "ko": "히라가나: あ행"
+              }
+            }
           ]
         },
-        { "id": "intermediate", "title": { "en": "Intermediate", "ko": "중급" }, "units": [] },
-        { "id": "advanced", "title": { "en": "Advanced", "ko": "고급" }, "units": [] }
+        {
+          "id": "intermediate",
+          "title": {
+            "en": "Intermediate",
+            "ko": "중급"
+          },
+          "units": []
+        },
+        {
+          "id": "advanced",
+          "title": {
+            "en": "Advanced",
+            "ko": "고급"
+          },
+          "units": []
+        }
       ]
     }
   ]
