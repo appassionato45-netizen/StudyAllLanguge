@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": "ko",
+      "target": "ko",
+      "explain": "en",
+      "title": { "en": "Learn Korean", "ko": "한국어 배우기" },
+      "levels": [
+        {
+          "id": "beginner",
+          "title": { "en": "Beginner", "ko": "초급" },
+          "units": [
+            { "id": "hangul-vowels", "type": "letters", "title": { "en": "Hangul: basic vowels", "ko": "한글: 기본 모음" } },
+            { "id": "greetings", "type": "vocab", "title": { "en": "Greetings", "ko": "인사말" } },
+            { "id": "first-meeting", "type": "dialogue", "title": { "en": "Conversation: first meeting", "ko": "회화: 첫 만남" } }
+          ]
+        },
+        { "id": "intermediate", "title": { "en": "Intermediate", "ko": "중급" }, "units": [] },
+        { "id": "advanced", "title": { "en": "Advanced", "ko": "고급" }, "units": [] }
+      ]
+    },
+    {
+      "id": "ja",
+      "target": "ja",
+      "explain": "ko",
+      "title": { "en": "Learn Japanese", "ko": "일본어 배우기" },
+      "levels": [
+        {
+          "id": "beginner",
+          "title": { "en": "Beginner", "ko": "초급" },
+          "units": [
+            { "id": "hiragana-a-row", "type": "letters", "title": { "en": "Hiragana: a-row", "ko": "히라가나: あ행" } }
+          ]
+        },
+        { "id": "intermediate", "title": { "en": "Intermediate", "ko": "중급" }, "units": [] },
+        { "id": "advanced", "title": { "en": "Advanced", "ko": "고급" }, "units": [] }
+      ]
+    }
+  ]
+}

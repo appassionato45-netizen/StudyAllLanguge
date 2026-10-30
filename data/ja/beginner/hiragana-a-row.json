@@ -1,0 +1,16 @@
+{
+  "id": "hiragana-a-row",
+  "type": "letters",
+  "items": [
+    { "id": "ja.hiragana-a-row.a", "char": "あ", "roman": "a", "note": { "ko": "한국어 '아'와 거의 같아요." },
+      "examples": [ { "text": "あい", "roman": "ai", "meaning": { "ko": "사랑" } } ] },
+    { "id": "ja.hiragana-a-row.i", "char": "い", "roman": "i", "note": { "ko": "한국어 '이'와 같아요." },
+      "examples": [ { "text": "いえ", "roman": "ie", "meaning": { "ko": "집" } } ] },
+    { "id": "ja.hiragana-a-row.u", "char": "う", "roman": "u", "note": { "ko": "'우'와 '으' 사이. 입술을 덜 내밀어요." },
+      "examples": [ { "text": "うえ", "roman": "ue", "meaning": { "ko": "위" } } ] },
+    { "id": "ja.hiragana-a-row.e", "char": "え", "roman": "e", "note": { "ko": "한국어 '에'와 같아요." },
+      "examples": [ { "text": "えき", "roman": "eki", "meaning": { "ko": "역" } } ] },
+    { "id": "ja.hiragana-a-row.o", "char": "お", "roman": "o", "note": { "ko": "한국어 '오'와 같아요." },
+      "examples": [ { "text": "おと", "roman": "oto", "meaning": { "ko": "소리" } } ] }
+  ]
+}

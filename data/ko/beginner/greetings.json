@@ -1,0 +1,13 @@
+{
+  "id": "greetings",
+  "type": "vocab",
+  "items": [
+    { "id": "ko.greetings.annyeonghaseyo", "text": "안녕하세요", "roman": "annyeonghaseyo", "meaning": { "en": "Hello (polite)" },
+      "example": { "text": "선생님, 안녕하세요!", "roman": "seonsaengnim, annyeonghaseyo!", "meaning": { "en": "Hello, teacher!" } } },
+    { "id": "ko.greetings.gamsahamnida", "text": "감사합니다", "roman": "gamsahamnida", "meaning": { "en": "Thank you (formal)" } },
+    { "id": "ko.greetings.joesonghamnida", "text": "죄송합니다", "roman": "joesonghamnida", "meaning": { "en": "I'm sorry (formal)" } },
+    { "id": "ko.greetings.ne", "text": "네", "roman": "ne", "meaning": { "en": "Yes" } },
+    { "id": "ko.greetings.aniyo", "text": "아니요", "roman": "aniyo", "meaning": { "en": "No" } },
+    { "id": "ko.greetings.annyeonghi-gaseyo", "text": "안녕히 가세요", "roman": "annyeonghi gaseyo", "meaning": { "en": "Goodbye (to someone leaving)" } }
+  ]
+}

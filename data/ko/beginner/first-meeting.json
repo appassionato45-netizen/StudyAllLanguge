@@ -1,0 +1,10 @@
+{
+  "id": "first-meeting",
+  "type": "dialogue",
+  "items": [
+    { "speaker": "A", "text": "안녕하세요. 저는 민준이에요.", "roman": "annyeonghaseyo. jeoneun minjunieyo.", "meaning": { "en": "Hello. I'm Minjun." } },
+    { "speaker": "B", "text": "안녕하세요. 저는 에마예요.", "roman": "annyeonghaseyo. jeoneun emayeyo.", "meaning": { "en": "Hello. I'm Emma." } },
+    { "speaker": "A", "text": "만나서 반가워요.", "roman": "mannaseo bangawoyo.", "meaning": { "en": "Nice to meet you." } },
+    { "speaker": "B", "text": "저도 반가워요.", "roman": "jeodo bangawoyo.", "meaning": { "en": "Nice to meet you too." } }
+  ]
+}

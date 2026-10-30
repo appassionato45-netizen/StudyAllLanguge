@@ -1,0 +1,18 @@
+{
+  "id": "hangul-vowels",
+  "type": "letters",
+  "items": [
+    { "id": "ko.hangul-vowels.a", "char": "ㅏ", "roman": "a", "note": { "en": "Like 'a' in father." },
+      "examples": [ { "text": "아이", "roman": "a-i", "meaning": { "en": "child" } } ] },
+    { "id": "ko.hangul-vowels.eo", "char": "ㅓ", "roman": "eo", "note": { "en": "Like 'u' in cup, with the mouth more open." },
+      "examples": [ { "text": "어머니", "roman": "eo-meo-ni", "meaning": { "en": "mother" } } ] },
+    { "id": "ko.hangul-vowels.o", "char": "ㅗ", "roman": "o", "note": { "en": "Like 'o' in go, with rounded lips and no glide." },
+      "examples": [ { "text": "오이", "roman": "o-i", "meaning": { "en": "cucumber" } } ] },
+    { "id": "ko.hangul-vowels.u", "char": "ㅜ", "roman": "u", "note": { "en": "Like 'oo' in moon." },
+      "examples": [ { "text": "우유", "roman": "u-yu", "meaning": { "en": "milk" } } ] },
+    { "id": "ko.hangul-vowels.eu", "char": "ㅡ", "roman": "eu", "note": { "en": "Say 'oo' but spread your lips flat. No English equivalent." },
+      "examples": [ { "text": "으", "roman": "eu", "meaning": { "en": "(the sound alone)" } } ] },
+    { "id": "ko.hangul-vowels.i", "char": "ㅣ", "roman": "i", "note": { "en": "Like 'ee' in see." },
+      "examples": [ { "text": "이", "roman": "i", "meaning": { "en": "tooth; two" } } ] }
+  ]
+}
