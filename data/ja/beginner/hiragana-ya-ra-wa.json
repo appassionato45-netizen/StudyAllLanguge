@@ -1,0 +1,200 @@
+{
+ "id": "hiragana-ya-ra-wa",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ja.hiragana-ya-ra-wa.ya",
+   "char": "や",
+   "roman": "ya",
+   "note": {
+    "ko": "'야'."
+   },
+   "examples": [
+    {
+     "text": "やま",
+     "roman": "yama",
+     "meaning": {
+      "ko": "산"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ya-ra-wa.yu",
+   "char": "ゆ",
+   "roman": "yu",
+   "note": {
+    "ko": "'유'."
+   },
+   "examples": [
+    {
+     "text": "ゆき",
+     "roman": "yuki",
+     "meaning": {
+      "ko": "눈(雪)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ya-ra-wa.yo",
+   "char": "よ",
+   "roman": "yo",
+   "note": {
+    "ko": "'요'."
+   },
+   "examples": [
+    {
+     "text": "よる",
+     "roman": "yoru",
+     "meaning": {
+      "ko": "밤"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ya-ra-wa.ra",
+   "char": "ら",
+   "roman": "ra",
+   "note": {
+    "ko": "'라'. 일본어 r는 한국어 모음 사이의 'ㄹ'(나라의 ㄹ)과 거의 같아요."
+   },
+   "examples": [
+    {
+     "text": "そら",
+     "roman": "sora",
+     "meaning": {
+      "ko": "하늘"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ya-ra-wa.ri",
+   "char": "り",
+   "roman": "ri",
+   "note": {
+    "ko": "'리'."
+   },
+   "examples": [
+    {
+     "text": "りんご",
+     "roman": "ringo",
+     "meaning": {
+      "ko": "사과"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ya-ra-wa.ru",
+   "char": "る",
+   "roman": "ru",
+   "note": {
+    "ko": "'루'와 '르' 사이. ろ와 달리 끝에 고리가 있어요."
+   },
+   "examples": [
+    {
+     "text": "はる",
+     "roman": "haru",
+     "meaning": {
+      "ko": "봄"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ya-ra-wa.re",
+   "char": "れ",
+   "roman": "re",
+   "note": {
+    "ko": "'레'."
+   },
+   "examples": [
+    {
+     "text": "れきし",
+     "roman": "rekishi",
+     "meaning": {
+      "ko": "역사"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ya-ra-wa.ro",
+   "char": "ろ",
+   "roman": "ro",
+   "note": {
+    "ko": "'로'."
+   },
+   "examples": [
+    {
+     "text": "いろ",
+     "roman": "iro",
+     "meaning": {
+      "ko": "색"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ya-ra-wa.wa",
+   "char": "わ",
+   "roman": "wa",
+   "note": {
+    "ko": "'와'."
+   },
+   "examples": [
+    {
+     "text": "わたし",
+     "roman": "watashi",
+     "meaning": {
+      "ko": "나"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ya-ra-wa.wo",
+   "char": "を",
+   "roman": "o (wo)",
+   "note": {
+    "ko": "목적격 조사 '~을/를' 전용 글자. 발음은 お와 같은 'o'예요."
+   },
+   "examples": [
+    {
+     "text": "ほんをよむ",
+     "roman": "hon o yomu",
+     "meaning": {
+      "ko": "책을 읽다"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ya-ra-wa.n",
+   "char": "ん",
+   "roman": "n",
+   "note": {
+    "ko": "받침처럼 쓰는 글자. 뒤 소리에 따라 'ㄴ', 'ㅁ', 'ㅇ'으로 바뀌지만 한 박자 길이를 지켜요."
+   },
+   "examples": [
+    {
+     "text": "ほん",
+     "roman": "hon",
+     "meaning": {
+      "ko": "책"
+     }
+    },
+    {
+     "text": "さんぽ",
+     "roman": "sanpo",
+     "meaning": {
+      "ko": "산책"
+     }
+    }
+   ]
+  }
+ ]
+}

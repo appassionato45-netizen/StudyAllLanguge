@@ -1,0 +1,431 @@
+{
+ "id": "hiragana-dakuten",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ja.hiragana-dakuten.ga",
+   "char": "が",
+   "roman": "ga",
+   "note": {
+    "ko": "か에 탁점(゛)을 붙이면 성대가 울리는 g. 한국어 'ㄱ'을 단어 첫머리에서 그대로 쓰면 일본인에게는 か로 들려요. 목을 울려서 '가'."
+   },
+   "examples": [
+    {
+     "text": "かがみ",
+     "roman": "kagami",
+     "meaning": {
+      "ko": "거울"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.gi",
+   "char": "ぎ",
+   "roman": "gi",
+   "note": {
+    "ko": "성대를 울리는 '기'."
+   },
+   "examples": [
+    {
+     "text": "かぎ",
+     "roman": "kagi",
+     "meaning": {
+      "ko": "열쇠"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.gu",
+   "char": "ぐ",
+   "roman": "gu",
+   "note": {
+    "ko": "성대를 울리는 '구'."
+   },
+   "examples": [
+    {
+     "text": "かぐ",
+     "roman": "kagu",
+     "meaning": {
+      "ko": "가구"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.ge",
+   "char": "げ",
+   "roman": "ge",
+   "note": {
+    "ko": "성대를 울리는 '게'."
+   },
+   "examples": [
+    {
+     "text": "げた",
+     "roman": "geta",
+     "meaning": {
+      "ko": "나막신"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.go",
+   "char": "ご",
+   "roman": "go",
+   "note": {
+    "ko": "성대를 울리는 '고'."
+   },
+   "examples": [
+    {
+     "text": "ごご",
+     "roman": "gogo",
+     "meaning": {
+      "ko": "오후"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.za",
+   "char": "ざ",
+   "roman": "za",
+   "note": {
+    "ko": "한국어에 없는 z 소리. '자'가 아니라 혀끝에서 진동이 나는 소리예요."
+   },
+   "examples": [
+    {
+     "text": "ざる",
+     "roman": "zaru",
+     "meaning": {
+      "ko": "소쿠리"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.ji",
+   "char": "じ",
+   "roman": "ji",
+   "note": {
+    "ko": "'지'. 성대를 울려요."
+   },
+   "examples": [
+    {
+     "text": "じかん",
+     "roman": "jikan",
+     "meaning": {
+      "ko": "시간"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.zu",
+   "char": "ず",
+   "roman": "zu",
+   "note": {
+    "ko": "'즈'. 성대를 울려요."
+   },
+   "examples": [
+    {
+     "text": "ちず",
+     "roman": "chizu",
+     "meaning": {
+      "ko": "지도"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.ze",
+   "char": "ぜ",
+   "roman": "ze",
+   "note": {
+    "ko": "z + '에'."
+   },
+   "examples": [
+    {
+     "text": "かぜ",
+     "roman": "kaze",
+     "meaning": {
+      "ko": "바람; 감기"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.zo",
+   "char": "ぞ",
+   "roman": "zo",
+   "note": {
+    "ko": "z + '오'."
+   },
+   "examples": [
+    {
+     "text": "ぞう",
+     "roman": "zō",
+     "meaning": {
+      "ko": "코끼리"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.da",
+   "char": "だ",
+   "roman": "da",
+   "note": {
+    "ko": "성대를 울리는 '다'."
+   },
+   "examples": [
+    {
+     "text": "だいがく",
+     "roman": "daigaku",
+     "meaning": {
+      "ko": "대학"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.di",
+   "char": "ぢ",
+   "roman": "ji",
+   "note": {
+    "ko": "じ와 발음이 같아요. 드물게 쓰여요."
+   },
+   "examples": [
+    {
+     "text": "はなぢ",
+     "roman": "hanaji",
+     "meaning": {
+      "ko": "코피"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.du",
+   "char": "づ",
+   "roman": "zu",
+   "note": {
+    "ko": "ず와 발음이 같아요. 드물게 쓰여요."
+   },
+   "examples": [
+    {
+     "text": "つづく",
+     "roman": "tsuzuku",
+     "meaning": {
+      "ko": "계속되다"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.de",
+   "char": "で",
+   "roman": "de",
+   "note": {
+    "ko": "성대를 울리는 '데'."
+   },
+   "examples": [
+    {
+     "text": "でんわ",
+     "roman": "denwa",
+     "meaning": {
+      "ko": "전화"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.do",
+   "char": "ど",
+   "roman": "do",
+   "note": {
+    "ko": "성대를 울리는 '도'."
+   },
+   "examples": [
+    {
+     "text": "どこ",
+     "roman": "doko",
+     "meaning": {
+      "ko": "어디"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.ba",
+   "char": "ば",
+   "roman": "ba",
+   "note": {
+    "ko": "성대를 울리는 '바'."
+   },
+   "examples": [
+    {
+     "text": "ばら",
+     "roman": "bara",
+     "meaning": {
+      "ko": "장미"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.bi",
+   "char": "び",
+   "roman": "bi",
+   "note": {
+    "ko": "성대를 울리는 '비'."
+   },
+   "examples": [
+    {
+     "text": "えび",
+     "roman": "ebi",
+     "meaning": {
+      "ko": "새우"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.bu",
+   "char": "ぶ",
+   "roman": "bu",
+   "note": {
+    "ko": "성대를 울리는 '부'."
+   },
+   "examples": [
+    {
+     "text": "ぶた",
+     "roman": "buta",
+     "meaning": {
+      "ko": "돼지"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.be",
+   "char": "べ",
+   "roman": "be",
+   "note": {
+    "ko": "성대를 울리는 '베'."
+   },
+   "examples": [
+    {
+     "text": "べんとう",
+     "roman": "bentō",
+     "meaning": {
+      "ko": "도시락"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.bo",
+   "char": "ぼ",
+   "roman": "bo",
+   "note": {
+    "ko": "성대를 울리는 '보'."
+   },
+   "examples": [
+    {
+     "text": "ぼうし",
+     "roman": "bōshi",
+     "meaning": {
+      "ko": "모자"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.pa",
+   "char": "ぱ",
+   "roman": "pa",
+   "note": {
+    "ko": "は에 반탁점(゜)을 붙이면 p. '파'."
+   },
+   "examples": [
+    {
+     "text": "ぱん",
+     "roman": "pan",
+     "meaning": {
+      "ko": "빵"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.pi",
+   "char": "ぴ",
+   "roman": "pi",
+   "note": {
+    "ko": "'피'."
+   },
+   "examples": [
+    {
+     "text": "ぴかぴか",
+     "roman": "pikapika",
+     "meaning": {
+      "ko": "반짝반짝"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.pu",
+   "char": "ぷ",
+   "roman": "pu",
+   "note": {
+    "ko": "'푸'."
+   },
+   "examples": [
+    {
+     "text": "てんぷら",
+     "roman": "tenpura",
+     "meaning": {
+      "ko": "튀김"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.pe",
+   "char": "ぺ",
+   "roman": "pe",
+   "note": {
+    "ko": "'페'."
+   },
+   "examples": [
+    {
+     "text": "ぺこぺこ",
+     "roman": "pekopeko",
+     "meaning": {
+      "ko": "배가 몹시 고픈 모양"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-dakuten.po",
+   "char": "ぽ",
+   "roman": "po",
+   "note": {
+    "ko": "'포'."
+   },
+   "examples": [
+    {
+     "text": "さんぽ",
+     "roman": "sanpo",
+     "meaning": {
+      "ko": "산책"
+     }
+    }
+   ]
+  }
+ ]
+}

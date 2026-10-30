@@ -1,0 +1,268 @@
+{
+ "id": "hiragana-na-ha-ma",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ja.hiragana-na-ha-ma.na",
+   "char": "な",
+   "roman": "na",
+   "note": {
+    "ko": "'나'."
+   },
+   "examples": [
+    {
+     "text": "なつ",
+     "roman": "natsu",
+     "meaning": {
+      "ko": "여름"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.ni",
+   "char": "に",
+   "roman": "ni",
+   "note": {
+    "ko": "'니'."
+   },
+   "examples": [
+    {
+     "text": "にく",
+     "roman": "niku",
+     "meaning": {
+      "ko": "고기"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.nu",
+   "char": "ぬ",
+   "roman": "nu",
+   "note": {
+    "ko": "'누'. め와 헷갈리기 쉬워요. ぬ는 끝에 고리가 있어요."
+   },
+   "examples": [
+    {
+     "text": "いぬ",
+     "roman": "inu",
+     "meaning": {
+      "ko": "개"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.ne",
+   "char": "ね",
+   "roman": "ne",
+   "note": {
+    "ko": "'네'. わ, れ와 모양이 비슷해요."
+   },
+   "examples": [
+    {
+     "text": "ねこ",
+     "roman": "neko",
+     "meaning": {
+      "ko": "고양이"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.no",
+   "char": "の",
+   "roman": "no",
+   "note": {
+    "ko": "'노'. '~의'라는 뜻의 조사로 아주 자주 나와요."
+   },
+   "examples": [
+    {
+     "text": "のみもの",
+     "roman": "nomimono",
+     "meaning": {
+      "ko": "음료"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.ha",
+   "char": "は",
+   "roman": "ha",
+   "note": {
+    "ko": "'하'. 조사 '~은/는'으로 쓰일 때는 'wa(와)'로 읽어요."
+   },
+   "examples": [
+    {
+     "text": "はな",
+     "roman": "hana",
+     "meaning": {
+      "ko": "꽃"
+     }
+    },
+    {
+     "text": "わたしは",
+     "roman": "watashi wa",
+     "meaning": {
+      "ko": "나는"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.hi",
+   "char": "ひ",
+   "roman": "hi",
+   "note": {
+    "ko": "'히'."
+   },
+   "examples": [
+    {
+     "text": "ひと",
+     "roman": "hito",
+     "meaning": {
+      "ko": "사람"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.fu",
+   "char": "ふ",
+   "roman": "fu",
+   "note": {
+    "ko": "'후'와 '흐' 사이. 윗니를 쓰지 않고 입술 사이로 바람을 내보내요. 영어 f가 아니에요."
+   },
+   "examples": [
+    {
+     "text": "ふね",
+     "roman": "fune",
+     "meaning": {
+      "ko": "배(船)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.he",
+   "char": "へ",
+   "roman": "he",
+   "note": {
+    "ko": "'헤'. 조사 '~로/에'로 쓰일 때는 'e(에)'로 읽어요."
+   },
+   "examples": [
+    {
+     "text": "へや",
+     "roman": "heya",
+     "meaning": {
+      "ko": "방"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.ho",
+   "char": "ほ",
+   "roman": "ho",
+   "note": {
+    "ko": "'호'."
+   },
+   "examples": [
+    {
+     "text": "ほし",
+     "roman": "hoshi",
+     "meaning": {
+      "ko": "별"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.ma",
+   "char": "ま",
+   "roman": "ma",
+   "note": {
+    "ko": "'마'."
+   },
+   "examples": [
+    {
+     "text": "まど",
+     "roman": "mado",
+     "meaning": {
+      "ko": "창문"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.mi",
+   "char": "み",
+   "roman": "mi",
+   "note": {
+    "ko": "'미'."
+   },
+   "examples": [
+    {
+     "text": "みみ",
+     "roman": "mimi",
+     "meaning": {
+      "ko": "귀"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.mu",
+   "char": "む",
+   "roman": "mu",
+   "note": {
+    "ko": "'무'와 '므' 사이."
+   },
+   "examples": [
+    {
+     "text": "むし",
+     "roman": "mushi",
+     "meaning": {
+      "ko": "벌레"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.me",
+   "char": "め",
+   "roman": "me",
+   "note": {
+    "ko": "'메'. ぬ와 달리 끝에 고리가 없어요."
+   },
+   "examples": [
+    {
+     "text": "め",
+     "roman": "me",
+     "meaning": {
+      "ko": "눈(目)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-na-ha-ma.mo",
+   "char": "も",
+   "roman": "mo",
+   "note": {
+    "ko": "'모'."
+   },
+   "examples": [
+    {
+     "text": "もも",
+     "roman": "momo",
+     "meaning": {
+      "ko": "복숭아"
+     }
+    }
+   ]
+  }
+ ]
+}

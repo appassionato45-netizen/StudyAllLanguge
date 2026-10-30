@@ -1,0 +1,261 @@
+{
+ "id": "hiragana-ka-sa-ta",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ja.hiragana-ka-sa-ta.ka",
+   "char": "か",
+   "roman": "ka",
+   "note": {
+    "ko": "'카'와 '가' 사이. 단어 첫머리에서는 '카'에 가깝고, 중간에서는 '까'처럼 들리기도 해요."
+   },
+   "examples": [
+    {
+     "text": "かさ",
+     "roman": "kasa",
+     "meaning": {
+      "ko": "우산"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.ki",
+   "char": "き",
+   "roman": "ki",
+   "note": {
+    "ko": "'키'."
+   },
+   "examples": [
+    {
+     "text": "きく",
+     "roman": "kiku",
+     "meaning": {
+      "ko": "듣다"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.ku",
+   "char": "く",
+   "roman": "ku",
+   "note": {
+    "ko": "'쿠'와 '크' 사이. 입술을 내밀지 않아요."
+   },
+   "examples": [
+    {
+     "text": "くつ",
+     "roman": "kutsu",
+     "meaning": {
+      "ko": "신발"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.ke",
+   "char": "け",
+   "roman": "ke",
+   "note": {
+    "ko": "'케'."
+   },
+   "examples": [
+    {
+     "text": "いけ",
+     "roman": "ike",
+     "meaning": {
+      "ko": "연못"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.ko",
+   "char": "こ",
+   "roman": "ko",
+   "note": {
+    "ko": "'코'."
+   },
+   "examples": [
+    {
+     "text": "ここ",
+     "roman": "koko",
+     "meaning": {
+      "ko": "여기"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.sa",
+   "char": "さ",
+   "roman": "sa",
+   "note": {
+    "ko": "'사'."
+   },
+   "examples": [
+    {
+     "text": "さけ",
+     "roman": "sake",
+     "meaning": {
+      "ko": "술"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.shi",
+   "char": "し",
+   "roman": "shi",
+   "note": {
+    "ko": "'시'. 로마자는 si가 아니라 shi로 써요."
+   },
+   "examples": [
+    {
+     "text": "しお",
+     "roman": "shio",
+     "meaning": {
+      "ko": "소금"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.su",
+   "char": "す",
+   "roman": "su",
+   "note": {
+    "ko": "'스'에 가까워요. 문장 끝 'です'에서는 거의 '스'만 들려요."
+   },
+   "examples": [
+    {
+     "text": "すし",
+     "roman": "sushi",
+     "meaning": {
+      "ko": "초밥"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.se",
+   "char": "せ",
+   "roman": "se",
+   "note": {
+    "ko": "'세'."
+   },
+   "examples": [
+    {
+     "text": "せき",
+     "roman": "seki",
+     "meaning": {
+      "ko": "자리; 기침"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.so",
+   "char": "そ",
+   "roman": "so",
+   "note": {
+    "ko": "'소'."
+   },
+   "examples": [
+    {
+     "text": "そこ",
+     "roman": "soko",
+     "meaning": {
+      "ko": "거기"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.ta",
+   "char": "た",
+   "roman": "ta",
+   "note": {
+    "ko": "'타'와 '다' 사이."
+   },
+   "examples": [
+    {
+     "text": "たこ",
+     "roman": "tako",
+     "meaning": {
+      "ko": "문어"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.chi",
+   "char": "ち",
+   "roman": "chi",
+   "note": {
+    "ko": "'치'. ti가 아니에요."
+   },
+   "examples": [
+    {
+     "text": "ちかてつ",
+     "roman": "chikatetsu",
+     "meaning": {
+      "ko": "지하철"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.tsu",
+   "char": "つ",
+   "roman": "tsu",
+   "note": {
+    "ko": "'츠'. 한국어에 없는 소리라 '쓰'나 '추'로 발음하지 않도록 주의해요. 혀끝을 윗니 뒤에 대고 '츠'."
+   },
+   "examples": [
+    {
+     "text": "つくえ",
+     "roman": "tsukue",
+     "meaning": {
+      "ko": "책상"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.te",
+   "char": "て",
+   "roman": "te",
+   "note": {
+    "ko": "'테'."
+   },
+   "examples": [
+    {
+     "text": "て",
+     "roman": "te",
+     "meaning": {
+      "ko": "손"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-ka-sa-ta.to",
+   "char": "と",
+   "roman": "to",
+   "note": {
+    "ko": "'토'."
+   },
+   "examples": [
+    {
+     "text": "とけい",
+     "roman": "tokei",
+     "meaning": {
+      "ko": "시계"
+     }
+    }
+   ]
+  }
+ ]
+}

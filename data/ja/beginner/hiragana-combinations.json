@@ -1,0 +1,258 @@
+{
+ "id": "hiragana-combinations",
+ "type": "letters",
+ "items": [
+  {
+   "id": "ja.hiragana-combinations.kya",
+   "char": "きゃ",
+   "roman": "kya",
+   "note": {
+    "ko": "い단 글자 + 작은 ゃゅょ는 한 박자로 합쳐 읽어요: き + ゃ = '캬'."
+   },
+   "examples": [
+    {
+     "text": "きゃく",
+     "roman": "kyaku",
+     "meaning": {
+      "ko": "손님"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.kyu",
+   "char": "きゅ",
+   "roman": "kyu",
+   "note": {
+    "ko": "'큐'."
+   },
+   "examples": [
+    {
+     "text": "きゅう",
+     "roman": "kyū",
+     "meaning": {
+      "ko": "9"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.kyo",
+   "char": "きょ",
+   "roman": "kyo",
+   "note": {
+    "ko": "'쿄'."
+   },
+   "examples": [
+    {
+     "text": "きょう",
+     "roman": "kyō",
+     "meaning": {
+      "ko": "오늘"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.sha",
+   "char": "しゃ",
+   "roman": "sha",
+   "note": {
+    "ko": "'샤'."
+   },
+   "examples": [
+    {
+     "text": "しゃしん",
+     "roman": "shashin",
+     "meaning": {
+      "ko": "사진"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.shu",
+   "char": "しゅ",
+   "roman": "shu",
+   "note": {
+    "ko": "'슈'."
+   },
+   "examples": [
+    {
+     "text": "しゅくだい",
+     "roman": "shukudai",
+     "meaning": {
+      "ko": "숙제"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.sho",
+   "char": "しょ",
+   "roman": "sho",
+   "note": {
+    "ko": "'쇼'."
+   },
+   "examples": [
+    {
+     "text": "しょくじ",
+     "roman": "shokuji",
+     "meaning": {
+      "ko": "식사"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.cha",
+   "char": "ちゃ",
+   "roman": "cha",
+   "note": {
+    "ko": "'차'."
+   },
+   "examples": [
+    {
+     "text": "おちゃ",
+     "roman": "ocha",
+     "meaning": {
+      "ko": "차(마시는 차)"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.chu",
+   "char": "ちゅ",
+   "roman": "chu",
+   "note": {
+    "ko": "'추'."
+   },
+   "examples": [
+    {
+     "text": "ちゅうい",
+     "roman": "chūi",
+     "meaning": {
+      "ko": "주의"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.cho",
+   "char": "ちょ",
+   "roman": "cho",
+   "note": {
+    "ko": "'초'."
+   },
+   "examples": [
+    {
+     "text": "ちょっと",
+     "roman": "chotto",
+     "meaning": {
+      "ko": "조금"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.ja",
+   "char": "じゃ",
+   "roman": "ja",
+   "note": {
+    "ko": "성대를 울리는 '자'."
+   },
+   "examples": [
+    {
+     "text": "じゃま",
+     "roman": "jama",
+     "meaning": {
+      "ko": "방해"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.ju",
+   "char": "じゅ",
+   "roman": "ju",
+   "note": {
+    "ko": "성대를 울리는 '주'."
+   },
+   "examples": [
+    {
+     "text": "じゅぎょう",
+     "roman": "jugyō",
+     "meaning": {
+      "ko": "수업"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.jo",
+   "char": "じょ",
+   "roman": "jo",
+   "note": {
+    "ko": "성대를 울리는 '조'."
+   },
+   "examples": [
+    {
+     "text": "じょうず",
+     "roman": "jōzu",
+     "meaning": {
+      "ko": "잘함, 능숙함"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.small-tsu",
+   "char": "っ",
+   "roman": "(다음 자음 반복)",
+   "note": {
+    "ko": "작은 っ는 한 박자 멈춤이에요. 한국어 받침 'ㅅ'처럼 막았다가 다음 소리를 내요. 로마자로는 다음 자음을 두 번 써요."
+   },
+   "examples": [
+    {
+     "text": "きって",
+     "roman": "kitte",
+     "meaning": {
+      "ko": "우표"
+     }
+    },
+    {
+     "text": "ざっし",
+     "roman": "zasshi",
+     "meaning": {
+      "ko": "잡지"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ja.hiragana-combinations.long-vowel",
+   "char": "おう / えい",
+   "roman": "ō / ē",
+   "note": {
+    "ko": "おう는 '오오', えい는 보통 '에에'로 길게 읽어요. 길이가 바뀌면 뜻이 바뀌어요."
+   },
+   "examples": [
+    {
+     "text": "とうきょう",
+     "roman": "Tōkyō",
+     "meaning": {
+      "ko": "도쿄"
+     }
+    },
+    {
+     "text": "せんせい",
+     "roman": "sensei",
+     "meaning": {
+      "ko": "선생님"
+     }
+    }
+   ]
+  }
+ ]
+}

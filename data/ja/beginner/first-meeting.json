@@ -1,0 +1,38 @@
+{
+ "id": "first-meeting",
+ "type": "dialogue",
+ "items": [
+  {
+   "speaker": "A",
+   "text": "はじめまして。キムです。",
+   "roman": "hajimemashite. kimu desu.",
+   "meaning": {
+    "ko": "처음 뵙겠습니다. 김이라고 합니다."
+   }
+  },
+  {
+   "speaker": "B",
+   "text": "はじめまして。たなかです。",
+   "roman": "hajimemashite. tanaka desu.",
+   "meaning": {
+    "ko": "처음 뵙겠습니다. 다나카입니다."
+   }
+  },
+  {
+   "speaker": "A",
+   "text": "よろしくおねがいします。",
+   "roman": "yoroshiku onegaishimasu.",
+   "meaning": {
+    "ko": "잘 부탁드립니다."
+   }
+  },
+  {
+   "speaker": "B",
+   "text": "こちらこそ、よろしくおねがいします。",
+   "roman": "kochira koso, yoroshiku onegaishimasu.",
+   "meaning": {
+    "ko": "저야말로 잘 부탁드립니다."
+   }
+  }
+ ]
+}

@@ -163,6 +163,78 @@
                 "en": "Hiragana: a-row",
                 "ko": "히라가나: あ행"
               }
+            },
+            {
+              "id": "hiragana-ka-sa-ta",
+              "type": "letters",
+              "title": {
+                "en": "Hiragana: ka, sa, ta rows",
+                "ko": "히라가나: か·さ·た행"
+              }
+            },
+            {
+              "id": "hiragana-na-ha-ma",
+              "type": "letters",
+              "title": {
+                "en": "Hiragana: na, ha, ma rows",
+                "ko": "히라가나: な·は·ま행"
+              }
+            },
+            {
+              "id": "hiragana-ya-ra-wa",
+              "type": "letters",
+              "title": {
+                "en": "Hiragana: ya, ra, wa rows and ん",
+                "ko": "히라가나: や·ら·わ행과 ん"
+              }
+            },
+            {
+              "id": "hiragana-dakuten",
+              "type": "letters",
+              "title": {
+                "en": "Hiragana: voiced sounds",
+                "ko": "히라가나: 탁음·반탁음"
+              }
+            },
+            {
+              "id": "hiragana-combinations",
+              "type": "letters",
+              "title": {
+                "en": "Hiragana: combined, small っ, long vowels",
+                "ko": "히라가나: 요음·촉음·장음"
+              }
+            },
+            {
+              "id": "katakana",
+              "type": "letters",
+              "title": {
+                "en": "Katakana",
+                "ko": "가타카나"
+              }
+            },
+            {
+              "id": "greetings",
+              "type": "vocab",
+              "title": {
+                "en": "Greetings",
+                "ko": "인사말"
+              }
+            },
+            {
+              "id": "numbers",
+              "type": "vocab",
+              "title": {
+                "en": "Numbers",
+                "ko": "숫자"
+              }
+            },
+            {
+              "id": "first-meeting",
+              "type": "dialogue",
+              "title": {
+                "en": "Conversation: first meeting",
+                "ko": "회화: 첫 만남"
+              }
             }
           ]
         },

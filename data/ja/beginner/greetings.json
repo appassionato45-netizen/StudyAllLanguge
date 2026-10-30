@@ -1,0 +1,93 @@
+{
+ "id": "greetings",
+ "type": "vocab",
+ "items": [
+  {
+   "id": "ja.greetings.ohayou",
+   "text": "おはようございます",
+   "roman": "ohayō gozaimasu",
+   "meaning": {
+    "ko": "안녕하세요 (아침 인사)"
+   }
+  },
+  {
+   "id": "ja.greetings.konnichiwa",
+   "text": "こんにちは",
+   "roman": "konnichiwa",
+   "meaning": {
+    "ko": "안녕하세요 (낮 인사). 끝의 は는 wa로 읽어요."
+   }
+  },
+  {
+   "id": "ja.greetings.konbanwa",
+   "text": "こんばんは",
+   "roman": "konbanwa",
+   "meaning": {
+    "ko": "안녕하세요 (저녁 인사)"
+   }
+  },
+  {
+   "id": "ja.greetings.arigatou",
+   "text": "ありがとうございます",
+   "roman": "arigatō gozaimasu",
+   "meaning": {
+    "ko": "감사합니다"
+   }
+  },
+  {
+   "id": "ja.greetings.sumimasen",
+   "text": "すみません",
+   "roman": "sumimasen",
+   "meaning": {
+    "ko": "실례합니다; 죄송합니다"
+   },
+   "example": {
+    "text": "すみません、えきはどこですか。",
+    "roman": "sumimasen, eki wa doko desu ka.",
+    "meaning": {
+     "ko": "실례합니다, 역은 어디예요?"
+    }
+   }
+  },
+  {
+   "id": "ja.greetings.hai",
+   "text": "はい",
+   "roman": "hai",
+   "meaning": {
+    "ko": "네"
+   }
+  },
+  {
+   "id": "ja.greetings.iie",
+   "text": "いいえ",
+   "roman": "iie",
+   "meaning": {
+    "ko": "아니요"
+   }
+  },
+  {
+   "id": "ja.greetings.sayounara",
+   "text": "さようなら",
+   "roman": "sayōnara",
+   "meaning": {
+    "ko": "안녕히 가세요 (오래 헤어질 때)"
+   }
+  },
+  {
+   "id": "ja.greetings.oyasuminasai",
+   "text": "おやすみなさい",
+   "roman": "oyasuminasai",
+   "meaning": {
+    "ko": "안녕히 주무세요"
+   }
+  },
+  {
+   "id": "ja.greetings.itadakimasu",
+   "text": "いただきます",
+   "roman": "itadakimasu",
+   "meaning": {
+    "ko": "잘 먹겠습니다"
+   }
+  }
+ ]
+}
