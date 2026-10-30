@@ -17,6 +17,7 @@ const STRINGS = {
     addToReview: 'Add to review',
     added: 'Added',
     loadError: 'Could not load this lesson.',
+    glossary: 'Key words',
   },
   ko: {
     appTitle: '모든 언어 공부',
@@ -35,6 +36,7 @@ const STRINGS = {
     addToReview: '복습에 추가',
     added: '추가됨',
     loadError: '레슨을 불러오지 못했어요.',
+    glossary: '주요 단어',
   },
 };
 

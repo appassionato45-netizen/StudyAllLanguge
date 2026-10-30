@@ -1,0 +1,107 @@
+{
+ "id": "story-rabbit-turtle",
+ "type": "story",
+ "source": "이솝 우화를 이 사이트를 위해 쉬운 일본어로 다시 썼어요.",
+ "items": [
+  {
+   "text": "うさぎと かめが かけっこを しました。",
+   "roman": "usagi to kame ga kakekko o shimashita.",
+   "meaning": {
+    "ko": "토끼와 거북이가 달리기 시합을 했어요."
+   }
+  },
+  {
+   "text": "うさぎは とても はやいです。",
+   "roman": "usagi wa totemo hayai desu.",
+   "meaning": {
+    "ko": "토끼는 아주 빨라요."
+   }
+  },
+  {
+   "text": "かめは とても おそいです。",
+   "roman": "kame wa totemo osoi desu.",
+   "meaning": {
+    "ko": "거북이는 아주 느려요."
+   }
+  },
+  {
+   "text": "うさぎは 「すこし ねよう」と おもいました。",
+   "roman": "usagi wa \"sukoshi neyō\" to omoimashita.",
+   "meaning": {
+    "ko": "토끼는 \"조금 자야지\" 하고 생각했어요."
+   }
+  },
+  {
+   "text": "かめは やすまないで あるきました。",
+   "roman": "kame wa yasumanaide arukimashita.",
+   "meaning": {
+    "ko": "거북이는 쉬지 않고 걸었어요."
+   }
+  },
+  {
+   "text": "うさぎが おきた とき、かめは もう ゴールに いました。",
+   "roman": "usagi ga okita toki, kame wa mō gōru ni imashita.",
+   "meaning": {
+    "ko": "토끼가 일어났을 때, 거북이는 벌써 결승점에 있었어요."
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "id": "ja.story-rabbit-turtle.usagi",
+   "text": "うさぎ",
+   "roman": "usagi",
+   "meaning": {
+    "ko": "토끼"
+   }
+  },
+  {
+   "id": "ja.story-rabbit-turtle.kame",
+   "text": "かめ",
+   "roman": "kame",
+   "meaning": {
+    "ko": "거북이"
+   }
+  },
+  {
+   "id": "ja.story-rabbit-turtle.hayai",
+   "text": "はやい",
+   "roman": "hayai",
+   "meaning": {
+    "ko": "빠르다"
+   }
+  },
+  {
+   "id": "ja.story-rabbit-turtle.osoi",
+   "text": "おそい",
+   "roman": "osoi",
+   "meaning": {
+    "ko": "느리다"
+   }
+  },
+  {
+   "id": "ja.story-rabbit-turtle.neru",
+   "text": "ねる",
+   "roman": "neru",
+   "meaning": {
+    "ko": "자다"
+   }
+  },
+  {
+   "id": "ja.story-rabbit-turtle.yasumu",
+   "text": "やすむ",
+   "roman": "yasumu",
+   "meaning": {
+    "ko": "쉬다"
+   }
+  },
+  {
+   "id": "ja.story-rabbit-turtle.aruku",
+   "text": "あるく",
+   "roman": "aruku",
+   "meaning": {
+    "ko": "걷다"
+   }
+  }
+ ]
+}

@@ -1,0 +1,121 @@
+{
+ "id": "story-rabbit-turtle",
+ "type": "story",
+ "source": "Aesop's fable, retold in simple Korean for this site.",
+ "items": [
+  {
+   "text": "토끼와 거북이가 달리기 시합을 했어요.",
+   "roman": "tokkiwa geobugiga dalligi sihabeul haesseoyo.",
+   "meaning": {
+    "en": "A rabbit and a turtle had a race."
+   }
+  },
+  {
+   "text": "토끼는 아주 빨랐어요.",
+   "roman": "tokkineun aju ppallasseoyo.",
+   "meaning": {
+    "en": "The rabbit was very fast."
+   }
+  },
+  {
+   "text": "거북이는 아주 느렸어요.",
+   "roman": "geobugineun aju neuryeosseoyo.",
+   "meaning": {
+    "en": "The turtle was very slow."
+   }
+  },
+  {
+   "text": "토끼가 생각했어요. \"조금 자도 괜찮아.\"",
+   "roman": "tokkiga saenggakaesseoyo. \"jogeum jado gwaenchana.\"",
+   "meaning": {
+    "en": "The rabbit thought, \"It's fine if I sleep a little.\""
+   }
+  },
+  {
+   "text": "토끼는 나무 아래에서 잠을 잤어요.",
+   "roman": "tokkineun namu araeeseo jameul jasseoyo.",
+   "meaning": {
+    "en": "The rabbit slept under a tree."
+   }
+  },
+  {
+   "text": "거북이는 쉬지 않고 걸었어요.",
+   "roman": "geobugineun swiji anko georeosseoyo.",
+   "meaning": {
+    "en": "The turtle kept walking without resting."
+   }
+  },
+  {
+   "text": "토끼가 일어났을 때, 거북이는 벌써 도착했어요.",
+   "roman": "tokkiga ireonasseul ttae, geobugineun beolsseo dochakaesseoyo.",
+   "meaning": {
+    "en": "When the rabbit woke up, the turtle had already arrived."
+   }
+  },
+  {
+   "text": "천천히 가도 포기하지 않으면 이길 수 있어요.",
+   "roman": "cheoncheonhi gado pogihaji aneumyeon igil su isseoyo.",
+   "meaning": {
+    "en": "Even if you go slowly, you can win if you don't give up."
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "id": "ko.story-rabbit-turtle.tokki",
+   "text": "토끼",
+   "roman": "tokki",
+   "meaning": {
+    "en": "rabbit"
+   }
+  },
+  {
+   "id": "ko.story-rabbit-turtle.geobugi",
+   "text": "거북이",
+   "roman": "geobugi",
+   "meaning": {
+    "en": "turtle"
+   }
+  },
+  {
+   "id": "ko.story-rabbit-turtle.ppareuda",
+   "text": "빠르다",
+   "roman": "ppareuda",
+   "meaning": {
+    "en": "to be fast"
+   }
+  },
+  {
+   "id": "ko.story-rabbit-turtle.neurida",
+   "text": "느리다",
+   "roman": "neurida",
+   "meaning": {
+    "en": "to be slow"
+   }
+  },
+  {
+   "id": "ko.story-rabbit-turtle.jada",
+   "text": "자다",
+   "roman": "jada",
+   "meaning": {
+    "en": "to sleep"
+   }
+  },
+  {
+   "id": "ko.story-rabbit-turtle.swida",
+   "text": "쉬다",
+   "roman": "swida",
+   "meaning": {
+    "en": "to rest"
+   }
+  },
+  {
+   "id": "ko.story-rabbit-turtle.dochakada",
+   "text": "도착하다",
+   "roman": "dochakada",
+   "meaning": {
+    "en": "to arrive"
+   }
+  }
+ ]
+}

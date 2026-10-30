@@ -1,0 +1,62 @@
+{
+ "id": "drama-convenience-store",
+ "type": "dialogue",
+ "items": [
+  {
+   "speaker": "店員",
+   "text": "いらっしゃいませ。",
+   "roman": "irasshaimase.",
+   "meaning": {
+    "ko": "어서 오세요."
+   }
+  },
+  {
+   "speaker": "客",
+   "text": "これ、ください。",
+   "roman": "kore, kudasai.",
+   "meaning": {
+    "ko": "이거 주세요."
+   }
+  },
+  {
+   "speaker": "店員",
+   "text": "ふくろは ごりようですか。",
+   "roman": "fukuro wa goriyō desu ka.",
+   "meaning": {
+    "ko": "봉투 필요하세요?"
+   }
+  },
+  {
+   "speaker": "客",
+   "text": "いいえ、だいじょうぶです。",
+   "roman": "iie, daijōbu desu.",
+   "meaning": {
+    "ko": "아니요, 괜찮아요."
+   }
+  },
+  {
+   "speaker": "店員",
+   "text": "ひゃくごじゅうえんです。",
+   "roman": "hyaku gojū en desu.",
+   "meaning": {
+    "ko": "150엔입니다."
+   }
+  },
+  {
+   "speaker": "客",
+   "text": "はい。",
+   "roman": "hai.",
+   "meaning": {
+    "ko": "여기요. (돈을 건네며)"
+   }
+  },
+  {
+   "speaker": "店員",
+   "text": "ありがとうございました。",
+   "roman": "arigatō gozaimashita.",
+   "meaning": {
+    "ko": "감사합니다."
+   }
+  }
+ ]
+}

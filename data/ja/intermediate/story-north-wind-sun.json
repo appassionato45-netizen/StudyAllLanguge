@@ -1,0 +1,107 @@
+{
+ "id": "story-north-wind-sun",
+ "type": "story",
+ "source": "이솝 우화를 이 사이트를 위해 쉬운 일본어로 다시 썼어요.",
+ "items": [
+  {
+   "text": "きたかぜと たいようが はなしました。",
+   "roman": "kitakaze to taiyō ga hanashimashita.",
+   "meaning": {
+    "ko": "북풍과 해가 이야기했어요."
+   }
+  },
+  {
+   "text": "「どちらが つよいか、くらべよう。」",
+   "roman": "\"dochira ga tsuyoi ka, kurabeyō.\"",
+   "meaning": {
+    "ko": "\"누가 더 센지 겨뤄 보자.\""
+   }
+  },
+  {
+   "text": "みちを たびびとが あるいて いました。",
+   "roman": "michi o tabibito ga aruite imashita.",
+   "meaning": {
+    "ko": "길을 나그네가 걷고 있었어요."
+   }
+  },
+  {
+   "text": "きたかぜは つよく ふきました。でも たびびとは コートを しっかり おさえました。",
+   "roman": "kitakaze wa tsuyoku fukimashita. demo tabibito wa kōto o shikkari osaemashita.",
+   "meaning": {
+    "ko": "북풍은 세게 불었어요. 하지만 나그네는 코트를 꽉 붙잡았어요."
+   }
+  },
+  {
+   "text": "たいようは あたたかく てらしました。",
+   "roman": "taiyō wa atatakaku terashimashita.",
+   "meaning": {
+    "ko": "해는 따뜻하게 비추었어요."
+   }
+  },
+  {
+   "text": "たびびとは あつくて コートを ぬぎました。",
+   "roman": "tabibito wa atsukute kōto o nugimashita.",
+   "meaning": {
+    "ko": "나그네는 더워서 코트를 벗었어요."
+   }
+  }
+ ],
+ "glossary": [
+  {
+   "id": "ja.story-north-wind-sun.kaze",
+   "text": "かぜ",
+   "roman": "kaze",
+   "meaning": {
+    "ko": "바람"
+   }
+  },
+  {
+   "id": "ja.story-north-wind-sun.taiyou",
+   "text": "たいよう",
+   "roman": "taiyō",
+   "meaning": {
+    "ko": "해, 태양"
+   }
+  },
+  {
+   "id": "ja.story-north-wind-sun.tsuyoi",
+   "text": "つよい",
+   "roman": "tsuyoi",
+   "meaning": {
+    "ko": "세다, 강하다"
+   }
+  },
+  {
+   "id": "ja.story-north-wind-sun.michi",
+   "text": "みち",
+   "roman": "michi",
+   "meaning": {
+    "ko": "길"
+   }
+  },
+  {
+   "id": "ja.story-north-wind-sun.atatakai",
+   "text": "あたたかい",
+   "roman": "atatakai",
+   "meaning": {
+    "ko": "따뜻하다"
+   }
+  },
+  {
+   "id": "ja.story-north-wind-sun.atsui",
+   "text": "あつい",
+   "roman": "atsui",
+   "meaning": {
+    "ko": "덥다"
+   }
+  },
+  {
+   "id": "ja.story-north-wind-sun.nugu",
+   "text": "ぬぐ",
+   "roman": "nugu",
+   "meaning": {
+    "ko": "벗다"
+   }
+  }
+ ]
+}
